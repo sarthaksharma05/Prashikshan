@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "name": "Aarav Sharma",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 9.2,
+      "projects_count": 8,
+      "university": "IIT Bombay",
+      "domains": ["AI/ML", "Backend Development"],
+      "lookingFor": "Internship"
+    },
+    {
+      "name": "Aditi Rao",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 8.7,
+      "projects_count": 5,
+      "university": "NIT Trichy",
+      "domains": ["Web Development", "UI/UX Design"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Vihaan Patel",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 7.4,
+      "projects_count": 3,
+      "university": "VIT Vellore",
+      "domains": ["Cloud & DevOps"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Ananya Singh",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 8.1,
+      "projects_count": 6,
+      "university": "BITS Pilani",
+      "domains": ["Data Engineering", "AI/ML"],
+      "lookingFor": "Internship"
+    },
+    {
+      "name": "Rishabh Gupta",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 6.8,
+      "projects_count": 2,
+      "university": "Delhi Technological University",
+      "domains": ["Backend Development"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Neha Deshmukh",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 9.6,
+      "projects_count": 9,
+      "university": "IIT Delhi",
+      "domains": ["AI/ML", "Cybersecurity"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Arjun Reddy",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 7.9,
+      "projects_count": 4,
+      "university": "SRM IST",
+      "domains": ["Web Development", "Backend Development"],
+      "lookingFor": "Internship"
+    },
+    {
+      "name": "Kavya Menon",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 8.5,
+      "projects_count": 7,
+      "university": "RV College of Engineering",
+      "domains": ["Cloud & DevOps", "Data Engineering"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Siddharth Verma",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 6.4,
+      "projects_count": 1,
+      "university": "Jadavpur University",
+      "domains": ["Game Development"],
+      "lookingFor": "Internship"
+    },
+    {
+      "name": "Pooja Joshi",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 9.1,
+      "projects_count": 6,
+      "university": "IIT Kanpur",
+      "domains": ["Blockchain", "Backend Development"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Rohan Iyer",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 8.2,
+      "projects_count": 5,
+      "university": "NIT Surathkal",
+      "domains": ["Android Development", "UI/UX Design"],
+      "lookingFor": "Internship"
+    },
+    {
+      "name": "Sneha Nair",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 7.7,
+      "projects_count": 4,
+      "university": "Manipal Institute of Technology",
+      "domains": ["AI/ML", "Web Development"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Vikram Rathore",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 8.9,
+      "projects_count": 8,
+      "university": "IIT Roorkee",
+      "domains": ["Cloud & DevOps", "Cybersecurity"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Divya Pillai",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 6.9,
+      "projects_count": 3,
+      "university": "VIT Vellore",
+      "domains": ["Data Engineering"],
+      "lookingFor": "Internship"
+    },
+    {
+      "name": "Karan Malhotra",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 9.8,
+      "projects_count": 10,
+      "university": "IIT Madras",
+      "domains": ["AI/ML", "Blockchain", "Backend Development"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Riya Sen",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 8.0,
+      "projects_count": 5,
+      "university": "BITS Pilani",
+      "domains": ["Android Development"],
+      "lookingFor": "Internship"
+    },
+    {
+      "name": "Amit Kumar",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 7.2,
+      "projects_count": 2,
+      "university": "Delhi Technological University",
+      "domains": ["Web Development", "Game Development"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Priya Das",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 8.6,
+      "projects_count": 6,
+      "university": "NIT Warangal",
+      "domains": ["Cloud & DevOps", "Backend Development"],
+      "lookingFor": "Internship"
+    },
+    {
+      "name": "Rahul Saxena",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 9.5,
+      "projects_count": 9,
+      "university": "IIT Kharagpur",
+      "domains": ["AI/ML", "Data Engineering"],
+      "lookingFor": "Job"
+    },
+    {
+      "name": "Nisha Agarwal",
+      "role": "student",
+      "userType": "student",
+      "cgpa": 7.5,
+      "projects_count": 4,
+      "university": "SRM IST",
+      "domains": ["UI/UX Design", "Web Development"],
+      "lookingFor": "Job"
+    }
+  ],
+  "enrollments": [
+    { "student_name": "Aarav Sharma", "status": "reviewed", "item_domain": "AI/ML", "company_name": "TechNova", "type": "job" },
+    { "student_name": "Aditi Rao", "status": "accepted", "item_domain": "Web Development", "company_name": "PixelForge", "type": "job" },
+    { "student_name": "Vihaan Patel", "status": "pending", "item_domain": "Cloud & DevOps", "company_name": "CloudSync", "type": "job" },
+    { "student_name": "Ananya Singh", "status": "rejected", "item_domain": "Data Engineering", "company_name": "QuantumEdge", "type": "job" },
+    { "student_name": "Rishabh Gupta", "status": "pending", "item_domain": "Backend Development", "company_name": "TechNova", "type": "hackathon" },
+    { "student_name": "Neha Deshmukh", "status": "accepted", "item_domain": "Cybersecurity", "company_name": "CyberShield", "type": "job" },
+    { "student_name": "Arjun Reddy", "status": "reviewed", "item_domain": "Web Development", "company_name": "PixelForge", "type": "job" },
+    { "student_name": "Kavya Menon", "status": "rejected", "item_domain": "Data Engineering", "company_name": "QuantumEdge", "type": "job" },
+    { "student_name": "Siddharth Verma", "status": "pending", "item_domain": "Game Development", "company_name": "Epic Studios", "type": "internship" },
+    { "student_name": "Pooja Joshi", "status": "accepted", "item_domain": "Blockchain", "company_name": "CryptoChain", "type": "job" },
+    { "student_name": "Rohan Iyer", "status": "reviewed", "item_domain": "Android Development", "company_name": "AppWorks", "type": "internship" },
+    { "student_name": "Sneha Nair", "status": "pending", "item_domain": "AI/ML", "company_name": "TechNova", "type": "job" },
+    { "student_name": "Vikram Rathore", "status": "accepted", "item_domain": "Cloud & DevOps", "company_name": "CloudSync", "type": "job" },
+    { "student_name": "Divya Pillai", "status": "rejected", "item_domain": "Data Engineering", "company_name": "QuantumEdge", "type": "internship" },
+    { "student_name": "Karan Malhotra", "status": "accepted", "item_domain": "AI/ML", "company_name": "OpenMind", "type": "job" },
+    { "student_name": "Riya Sen", "status": "pending", "item_domain": "Android Development", "company_name": "AppWorks", "type": "internship" },
+    { "student_name": "Amit Kumar", "status": "reviewed", "item_domain": "Web Development", "company_name": "PixelForge", "type": "job" },
+    { "student_name": "Priya Das", "status": "accepted", "item_domain": "Backend Development", "company_name": "TechNova", "type": "internship" },
+    { "student_name": "Rahul Saxena", "status": "reviewed", "item_domain": "AI/ML", "company_name": "OpenMind", "type": "job" },
+    { "student_name": "Nisha Agarwal", "status": "rejected", "item_domain": "UI/UX Design", "company_name": "CreativeStudio", "type": "job" },
+    { "student_name": "Aarav Sharma", "status": "accepted", "item_domain": "Backend Development", "company_name": "TechNova", "type": "job" },
+    { "student_name": "Aditi Rao", "status": "pending", "item_domain": "UI/UX Design", "company_name": "CreativeStudio", "type": "job" },
+    { "student_name": "Ananya Singh", "status": "reviewed", "item_domain": "AI/ML", "company_name": "OpenMind", "type": "internship" },
+    { "student_name": "Neha Deshmukh", "status": "rejected", "item_domain": "AI/ML", "company_name": "TechNova", "type": "job" },
+    { "student_name": "Karan Malhotra", "status": "reviewed", "item_domain": "Blockchain", "company_name": "CryptoChain", "type": "job" }
+  ]
+}
