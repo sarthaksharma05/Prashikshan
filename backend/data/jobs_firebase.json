@@ -1,0 +1,6539 @@
+[
+  {
+    "job_id": 1,
+    "title": "NLP Engineer Intern",
+    "company": "Flipkart",
+    "location": "Jaipur, India",
+    "domain": "AI/ML",
+    "skills": [
+      "numpy",
+      "pytorch",
+      "gpt",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 2,
+    "title": "Data Science Intern",
+    "company": "Yulu",
+    "location": "Kolkata, India",
+    "domain": "AI/ML",
+    "skills": [
+      "python",
+      "deep learning",
+      "data analysis"
+    ]
+  },
+  {
+    "job_id": 3,
+    "title": "AI Product Intern",
+    "company": "Niyo",
+    "location": "Ahmedabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "opencv",
+      "data analysis",
+      "bert"
+    ]
+  },
+  {
+    "job_id": 4,
+    "title": "AI Safety Intern",
+    "company": "Hasura",
+    "location": "Noida, India",
+    "domain": "AI/ML",
+    "skills": [
+      "pandas",
+      "python",
+      "scikit-learn",
+      "bert",
+      "ml"
+    ]
+  },
+  {
+    "job_id": 5,
+    "title": "AI/ML Developer Intern",
+    "company": "Springboard",
+    "location": "Delhi, India",
+    "domain": "AI/ML",
+    "skills": [
+      "nlp",
+      "tensorflow",
+      "deep learning"
+    ]
+  },
+  {
+    "job_id": 6,
+    "title": "Reinforcement Learning Intern",
+    "company": "Zepto",
+    "location": "Chennai, India",
+    "domain": "AI/ML",
+    "skills": [
+      "langchain",
+      "pandas",
+      "machine learning",
+      "gpt"
+    ]
+  },
+  {
+    "job_id": 7,
+    "title": "Speech Recognition Intern",
+    "company": "KreditBee",
+    "location": "Mumbai, India",
+    "domain": "AI/ML",
+    "skills": [
+      "deep learning",
+      "opencv",
+      "neural networks",
+      "llm"
+    ]
+  },
+  {
+    "job_id": 8,
+    "title": "Data Science Engineer Intern",
+    "company": "Ola Electric",
+    "location": "Hyderabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "deep learning",
+      "machine learning",
+      "transformers",
+      "numpy",
+      "neural networks"
+    ]
+  },
+  {
+    "job_id": 9,
+    "title": "Data Science Intern",
+    "company": "Setu",
+    "location": "Indore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "ai",
+      "pandas",
+      "statistics"
+    ]
+  },
+  {
+    "job_id": 10,
+    "title": "Data Science Engineer Intern",
+    "company": "HCL",
+    "location": "Chennai, India",
+    "domain": "AI/ML",
+    "skills": [
+      "data analysis",
+      "transformers",
+      "pandas",
+      "bert"
+    ]
+  },
+  {
+    "job_id": 11,
+    "title": "Data Science Intern",
+    "company": "Ninjacart",
+    "location": "Remote, India",
+    "domain": "AI/ML",
+    "skills": [
+      "opencv",
+      "gpt",
+      "numpy"
+    ]
+  },
+  {
+    "job_id": 12,
+    "title": "Deep Learning Intern",
+    "company": "Capgemini",
+    "location": "Kolkata, India",
+    "domain": "AI/ML",
+    "skills": [
+      "llm",
+      "bert",
+      "opencv",
+      "numpy"
+    ]
+  },
+  {
+    "job_id": 13,
+    "title": "AI/ML Developer Intern",
+    "company": "Razorpay",
+    "location": "Hyderabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "nlp",
+      "ai",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 14,
+    "title": "Data Science Intern",
+    "company": "Chargebee",
+    "location": "Coimbatore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "bert",
+      "nlp",
+      "data analysis",
+      "llm",
+      "data science"
+    ]
+  },
+  {
+    "job_id": 15,
+    "title": "Reinforcement Learning Intern",
+    "company": "Practo",
+    "location": "Noida, India",
+    "domain": "AI/ML",
+    "skills": [
+      "pandas",
+      "pytorch",
+      "numpy"
+    ]
+  },
+  {
+    "job_id": 16,
+    "title": "Generative AI Intern",
+    "company": "FarEye",
+    "location": "Ahmedabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "huggingface",
+      "ai",
+      "computer vision",
+      "numpy"
+    ]
+  },
+  {
+    "job_id": 17,
+    "title": "Computer Vision Intern",
+    "company": "Jupiter",
+    "location": "Noida, India",
+    "domain": "AI/ML",
+    "skills": [
+      "machine learning",
+      "tensorflow",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 18,
+    "title": "Deep Learning Intern",
+    "company": "Docprime",
+    "location": "Kolkata, India",
+    "domain": "AI/ML",
+    "skills": [
+      "deep learning",
+      "ai",
+      "langchain",
+      "statistics",
+      "keras"
+    ]
+  },
+  {
+    "job_id": 19,
+    "title": "Generative AI Intern",
+    "company": "Kissht",
+    "location": "Indore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "transformers",
+      "gpt",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 20,
+    "title": "Generative AI Intern",
+    "company": "Practo",
+    "location": "Chennai, India",
+    "domain": "AI/ML",
+    "skills": [
+      "neural networks",
+      "ml",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 21,
+    "title": "Speech Recognition Intern",
+    "company": "Google India",
+    "location": "Jaipur, India",
+    "domain": "AI/ML",
+    "skills": [
+      "pandas",
+      "keras",
+      "scikit-learn",
+      "tensorflow",
+      "llm"
+    ]
+  },
+  {
+    "job_id": 22,
+    "title": "ML Engineer Intern",
+    "company": "FreshToHome",
+    "location": "Gurgaon, India",
+    "domain": "AI/ML",
+    "skills": [
+      "data analysis",
+      "pytorch",
+      "computer vision",
+      "scikit-learn",
+      "opencv"
+    ]
+  },
+  {
+    "job_id": 23,
+    "title": "Machine Learning Intern",
+    "company": "Vogo",
+    "location": "Chennai, India",
+    "domain": "AI/ML",
+    "skills": [
+      "python",
+      "tensorflow",
+      "computer vision",
+      "neural networks"
+    ]
+  },
+  {
+    "job_id": 24,
+    "title": "AI Product Intern",
+    "company": "Razorpay",
+    "location": "Hyderabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "deep learning",
+      "gpt",
+      "data science",
+      "opencv",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 25,
+    "title": "Computer Vision Intern",
+    "company": "1mg",
+    "location": "Noida, India",
+    "domain": "AI/ML",
+    "skills": [
+      "scikit-learn",
+      "pandas",
+      "keras",
+      "langchain",
+      "ml"
+    ]
+  },
+  {
+    "job_id": 26,
+    "title": "MLOps Intern",
+    "company": "MoneyTap",
+    "location": "Chandigarh, India",
+    "domain": "AI/ML",
+    "skills": [
+      "bert",
+      "data analysis",
+      "neural networks",
+      "ai",
+      "transformers"
+    ]
+  },
+  {
+    "job_id": 27,
+    "title": "Data Science Engineer Intern",
+    "company": "Intel India",
+    "location": "Coimbatore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "statistics",
+      "tensorflow",
+      "numpy",
+      "deep learning",
+      "nlp"
+    ]
+  },
+  {
+    "job_id": 28,
+    "title": "Machine Learning Intern",
+    "company": "Yulu",
+    "location": "Gurgaon, India",
+    "domain": "AI/ML",
+    "skills": [
+      "huggingface",
+      "numpy",
+      "python"
+    ]
+  },
+  {
+    "job_id": 29,
+    "title": "Data Science Intern",
+    "company": "Fractal Analytics",
+    "location": "Remote, India",
+    "domain": "AI/ML",
+    "skills": [
+      "numpy",
+      "deep learning",
+      "machine learning"
+    ]
+  },
+  {
+    "job_id": 30,
+    "title": "AI/ML Developer Intern",
+    "company": "PhonePe",
+    "location": "Gurgaon, India",
+    "domain": "AI/ML",
+    "skills": [
+      "pandas",
+      "transformers",
+      "data science"
+    ]
+  },
+  {
+    "job_id": 31,
+    "title": "MLOps Intern",
+    "company": "MoneyTap",
+    "location": "Delhi, India",
+    "domain": "AI/ML",
+    "skills": [
+      "huggingface",
+      "data science",
+      "numpy",
+      "ml",
+      "data analysis"
+    ]
+  },
+  {
+    "job_id": 32,
+    "title": "NLP Engineer Intern",
+    "company": "Zepto",
+    "location": "Remote, India",
+    "domain": "AI/ML",
+    "skills": [
+      "computer vision",
+      "ml",
+      "statistics",
+      "gpt"
+    ]
+  },
+  {
+    "job_id": 33,
+    "title": "AI Research Intern",
+    "company": "MFine",
+    "location": "Remote, India",
+    "domain": "AI/ML",
+    "skills": [
+      "tensorflow",
+      "machine learning",
+      "ai",
+      "gpt",
+      "nlp"
+    ]
+  },
+  {
+    "job_id": 34,
+    "title": "NLP Engineer Intern",
+    "company": "BYJU'S",
+    "location": "Hyderabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "opencv",
+      "statistics",
+      "pytorch"
+    ]
+  },
+  {
+    "job_id": 35,
+    "title": "AI Safety Intern",
+    "company": "Mphasis",
+    "location": "Pune, India",
+    "domain": "AI/ML",
+    "skills": [
+      "numpy",
+      "deep learning",
+      "statistics",
+      "opencv"
+    ]
+  },
+  {
+    "job_id": 36,
+    "title": "NLP Engineer Intern",
+    "company": "CRED",
+    "location": "Remote, India",
+    "domain": "AI/ML",
+    "skills": [
+      "python",
+      "deep learning",
+      "numpy",
+      "scikit-learn",
+      "ml"
+    ]
+  },
+  {
+    "job_id": 37,
+    "title": "Recommendation Systems Intern",
+    "company": "Mindtree",
+    "location": "Hyderabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "machine learning",
+      "scikit-learn",
+      "ai",
+      "python"
+    ]
+  },
+  {
+    "job_id": 38,
+    "title": "Reinforcement Learning Intern",
+    "company": "upGrad",
+    "location": "Coimbatore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "neural networks",
+      "ml",
+      "bert",
+      "gpt"
+    ]
+  },
+  {
+    "job_id": 39,
+    "title": "Recommendation Systems Intern",
+    "company": "Wipro",
+    "location": "Hyderabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "data analysis",
+      "machine learning",
+      "huggingface",
+      "gpt"
+    ]
+  },
+  {
+    "job_id": 40,
+    "title": "AI Research Intern",
+    "company": "FarEye",
+    "location": "Chennai, India",
+    "domain": "AI/ML",
+    "skills": [
+      "machine learning",
+      "huggingface",
+      "data science"
+    ]
+  },
+  {
+    "job_id": 41,
+    "title": "Deep Learning Intern",
+    "company": "Razorpay",
+    "location": "Gurgaon, India",
+    "domain": "AI/ML",
+    "skills": [
+      "scikit-learn",
+      "deep learning",
+      "langchain"
+    ]
+  },
+  {
+    "job_id": 42,
+    "title": "Data Science Intern",
+    "company": "MFine",
+    "location": "Indore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "ai",
+      "tensorflow",
+      "huggingface"
+    ]
+  },
+  {
+    "job_id": 43,
+    "title": "AI Product Intern",
+    "company": "Bounce",
+    "location": "Ahmedabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "langchain",
+      "deep learning",
+      "ml"
+    ]
+  },
+  {
+    "job_id": 44,
+    "title": "AI/ML Developer Intern",
+    "company": "upGrad",
+    "location": "Hyderabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "bert",
+      "nlp",
+      "numpy",
+      "pandas",
+      "ai"
+    ]
+  },
+  {
+    "job_id": 45,
+    "title": "Computer Vision Intern",
+    "company": "Netmeds",
+    "location": "Remote, India",
+    "domain": "AI/ML",
+    "skills": [
+      "statistics",
+      "nlp",
+      "deep learning",
+      "python"
+    ]
+  },
+  {
+    "job_id": 46,
+    "title": "Speech Recognition Intern",
+    "company": "AgroStar",
+    "location": "Ahmedabad, India",
+    "domain": "AI/ML",
+    "skills": [
+      "deep learning",
+      "opencv",
+      "data analysis"
+    ]
+  },
+  {
+    "job_id": 47,
+    "title": "Generative AI Intern",
+    "company": "Zoho",
+    "location": "Coimbatore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "deep learning",
+      "numpy",
+      "computer vision",
+      "neural networks"
+    ]
+  },
+  {
+    "job_id": 48,
+    "title": "Deep Learning Intern",
+    "company": "Intel India",
+    "location": "Indore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "bert",
+      "neural networks",
+      "langchain",
+      "llm",
+      "keras"
+    ]
+  },
+  {
+    "job_id": 49,
+    "title": "Machine Learning Intern",
+    "company": "Netmeds",
+    "location": "Indore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "neural networks",
+      "transformers",
+      "tensorflow",
+      "pytorch",
+      "pandas"
+    ]
+  },
+  {
+    "job_id": 50,
+    "title": "NLP Engineer Intern",
+    "company": "Groww",
+    "location": "Jaipur, India",
+    "domain": "AI/ML",
+    "skills": [
+      "pytorch",
+      "pandas",
+      "neural networks",
+      "langchain",
+      "data analysis"
+    ]
+  },
+  {
+    "job_id": 51,
+    "title": "AI/ML Developer Intern",
+    "company": "Druva",
+    "location": "Remote, India",
+    "domain": "AI/ML",
+    "skills": [
+      "pandas",
+      "keras",
+      "data science",
+      "machine learning",
+      "deep learning"
+    ]
+  },
+  {
+    "job_id": 52,
+    "title": "AI Safety Intern",
+    "company": "Springboard",
+    "location": "Bangalore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "nlp",
+      "pytorch",
+      "llm"
+    ]
+  },
+  {
+    "job_id": 53,
+    "title": "Generative AI Intern",
+    "company": "HCL",
+    "location": "Jaipur, India",
+    "domain": "AI/ML",
+    "skills": [
+      "opencv",
+      "bert",
+      "ml",
+      "python"
+    ]
+  },
+  {
+    "job_id": 54,
+    "title": "NLP Engineer Intern",
+    "company": "PhonePe",
+    "location": "Coimbatore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "pytorch",
+      "opencv",
+      "machine learning",
+      "computer vision",
+      "huggingface"
+    ]
+  },
+  {
+    "job_id": 55,
+    "title": "Computer Vision Intern",
+    "company": "Nvidia India",
+    "location": "Delhi, India",
+    "domain": "AI/ML",
+    "skills": [
+      "neural networks",
+      "computer vision",
+      "machine learning"
+    ]
+  },
+  {
+    "job_id": 56,
+    "title": "Data Science Engineer Intern",
+    "company": "Druva",
+    "location": "Remote, India",
+    "domain": "AI/ML",
+    "skills": [
+      "transformers",
+      "tensorflow",
+      "computer vision"
+    ]
+  },
+  {
+    "job_id": 57,
+    "title": "AI Safety Intern",
+    "company": "AgroStar",
+    "location": "Jaipur, India",
+    "domain": "AI/ML",
+    "skills": [
+      "numpy",
+      "scikit-learn",
+      "ml"
+    ]
+  },
+  {
+    "job_id": 58,
+    "title": "Machine Learning Intern",
+    "company": "Persistent Systems",
+    "location": "Jaipur, India",
+    "domain": "AI/ML",
+    "skills": [
+      "ml",
+      "transformers",
+      "gpt",
+      "numpy"
+    ]
+  },
+  {
+    "job_id": 59,
+    "title": "Generative AI Intern",
+    "company": "HCL",
+    "location": "Chandigarh, India",
+    "domain": "AI/ML",
+    "skills": [
+      "tensorflow",
+      "ai",
+      "machine learning",
+      "data science",
+      "numpy"
+    ]
+  },
+  {
+    "job_id": 60,
+    "title": "MLOps Intern",
+    "company": "Accenture",
+    "location": "Chennai, India",
+    "domain": "AI/ML",
+    "skills": [
+      "numpy",
+      "python",
+      "transformers",
+      "data analysis"
+    ]
+  },
+  {
+    "job_id": 61,
+    "title": "Reinforcement Learning Intern",
+    "company": "BlackBuck",
+    "location": "Pune, India",
+    "domain": "AI/ML",
+    "skills": [
+      "pandas",
+      "computer vision",
+      "llm"
+    ]
+  },
+  {
+    "job_id": 62,
+    "title": "Reinforcement Learning Intern",
+    "company": "MFine",
+    "location": "Indore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "nlp",
+      "python",
+      "tensorflow",
+      "pandas",
+      "scikit-learn"
+    ]
+  },
+  {
+    "job_id": 63,
+    "title": "Generative AI Intern",
+    "company": "Ola",
+    "location": "Mumbai, India",
+    "domain": "AI/ML",
+    "skills": [
+      "ml",
+      "computer vision",
+      "gpt",
+      "nlp",
+      "langchain"
+    ]
+  },
+  {
+    "job_id": 64,
+    "title": "NLP Engineer Intern",
+    "company": "boAt",
+    "location": "Coimbatore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "data analysis",
+      "pandas",
+      "machine learning",
+      "bert",
+      "ml"
+    ]
+  },
+  {
+    "job_id": 65,
+    "title": "Machine Learning Intern",
+    "company": "Fi Money",
+    "location": "Coimbatore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "transformers",
+      "gpt",
+      "data analysis",
+      "computer vision",
+      "ml"
+    ]
+  },
+  {
+    "job_id": 66,
+    "title": "Data Science Intern",
+    "company": "Netmeds",
+    "location": "Coimbatore, India",
+    "domain": "AI/ML",
+    "skills": [
+      "langchain",
+      "nlp",
+      "transformers",
+      "tensorflow"
+    ]
+  },
+  {
+    "job_id": 67,
+    "title": "ML Engineer Intern",
+    "company": "Niyo",
+    "location": "Pune, India",
+    "domain": "AI/ML",
+    "skills": [
+      "ml",
+      "nlp",
+      "ai",
+      "bert",
+      "neural networks"
+    ]
+  },
+  {
+    "job_id": 68,
+    "title": "Computer Vision Intern",
+    "company": "Postman",
+    "location": "Kolkata, India",
+    "domain": "AI/ML",
+    "skills": [
+      "ai",
+      "transformers",
+      "gpt",
+      "scikit-learn",
+      "langchain"
+    ]
+  },
+  {
+    "job_id": 69,
+    "title": "ML Engineer Intern",
+    "company": "IBM India",
+    "location": "Gurgaon, India",
+    "domain": "AI/ML",
+    "skills": [
+      "neural networks",
+      "data analysis",
+      "ml"
+    ]
+  },
+  {
+    "job_id": 70,
+    "title": "AI/ML Developer Intern",
+    "company": "Capgemini",
+    "location": "Noida, India",
+    "domain": "AI/ML",
+    "skills": [
+      "transformers",
+      "data analysis",
+      "keras",
+      "data science"
+    ]
+  },
+  {
+    "job_id": 71,
+    "title": "Shopify Developer Intern",
+    "company": "Rivigo",
+    "location": "Delhi, India",
+    "domain": "Web Development",
+    "skills": [
+      "node.js",
+      "flask",
+      "git",
+      "redis",
+      "jquery"
+    ]
+  },
+  {
+    "job_id": 72,
+    "title": "Next.js Developer Intern",
+    "company": "BlackBuck",
+    "location": "Mumbai, India",
+    "domain": "Web Development",
+    "skills": [
+      "redis",
+      "flask",
+      "angular"
+    ]
+  },
+  {
+    "job_id": 73,
+    "title": "Shopify Developer Intern",
+    "company": "BrowserStack",
+    "location": "Delhi, India",
+    "domain": "Web Development",
+    "skills": [
+      "react",
+      "angular",
+      "webpack"
+    ]
+  },
+  {
+    "job_id": 74,
+    "title": "Next.js Developer Intern",
+    "company": "PhonePe",
+    "location": "Noida, India",
+    "domain": "Web Development",
+    "skills": [
+      "jquery",
+      "tailwind css",
+      "vue.js",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 75,
+    "title": "Vue.js Developer Intern",
+    "company": "IBM India",
+    "location": "Hyderabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "jquery",
+      "javascript",
+      "html"
+    ]
+  },
+  {
+    "job_id": 76,
+    "title": "Shopify Developer Intern",
+    "company": "Adobe India",
+    "location": "Hyderabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "git",
+      "graphql",
+      "react"
+    ]
+  },
+  {
+    "job_id": 77,
+    "title": "Django Developer Intern",
+    "company": "BYJU'S",
+    "location": "Coimbatore, India",
+    "domain": "Web Development",
+    "skills": [
+      "graphql",
+      "css",
+      "redis"
+    ]
+  },
+  {
+    "job_id": 78,
+    "title": "Django Developer Intern",
+    "company": "EarlySalary",
+    "location": "Ahmedabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "graphql",
+      "bootstrap",
+      "git",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 79,
+    "title": "Web Performance Intern",
+    "company": "Kissht",
+    "location": "Noida, India",
+    "domain": "Web Development",
+    "skills": [
+      "webpack",
+      "graphql",
+      "django"
+    ]
+  },
+  {
+    "job_id": 80,
+    "title": "Shopify Developer Intern",
+    "company": "BYJU'S",
+    "location": "Indore, India",
+    "domain": "Web Development",
+    "skills": [
+      "django",
+      "git",
+      "webpack",
+      "jquery",
+      "angular"
+    ]
+  },
+  {
+    "job_id": 81,
+    "title": "Node.js Developer Intern",
+    "company": "Intel India",
+    "location": "Mumbai, India",
+    "domain": "Web Development",
+    "skills": [
+      "flask",
+      "angular",
+      "django",
+      "php",
+      "next.js"
+    ]
+  },
+  {
+    "job_id": 82,
+    "title": "Backend Developer Intern",
+    "company": "Infosys",
+    "location": "Delhi, India",
+    "domain": "Web Development",
+    "skills": [
+      "postgresql",
+      "css",
+      "vue.js"
+    ]
+  },
+  {
+    "job_id": 83,
+    "title": "Backend Developer Intern",
+    "company": "Salesforce India",
+    "location": "Kolkata, India",
+    "domain": "Web Development",
+    "skills": [
+      "next.js",
+      "graphql",
+      "rest api",
+      "react"
+    ]
+  },
+  {
+    "job_id": 84,
+    "title": "React Developer Intern",
+    "company": "Salesforce India",
+    "location": "Kolkata, India",
+    "domain": "Web Development",
+    "skills": [
+      "javascript",
+      "tailwind css",
+      "postgresql",
+      "webpack",
+      "mongodb"
+    ]
+  },
+  {
+    "job_id": 85,
+    "title": "Node.js Developer Intern",
+    "company": "Loginext",
+    "location": "Kolkata, India",
+    "domain": "Web Development",
+    "skills": [
+      "next.js",
+      "bootstrap",
+      "angular",
+      "webpack"
+    ]
+  },
+  {
+    "job_id": 86,
+    "title": "React Developer Intern",
+    "company": "Scaler",
+    "location": "Kolkata, India",
+    "domain": "Web Development",
+    "skills": [
+      "javascript",
+      "postgresql",
+      "php",
+      "redis"
+    ]
+  },
+  {
+    "job_id": 87,
+    "title": "Angular Developer Intern",
+    "company": "IBM India",
+    "location": "Jaipur, India",
+    "domain": "Web Development",
+    "skills": [
+      "graphql",
+      "css",
+      "bootstrap"
+    ]
+  },
+  {
+    "job_id": 88,
+    "title": "Django Developer Intern",
+    "company": "Flipkart",
+    "location": "Coimbatore, India",
+    "domain": "Web Development",
+    "skills": [
+      "tailwind css",
+      "redis",
+      "javascript",
+      "node.js"
+    ]
+  },
+  {
+    "job_id": 89,
+    "title": "Angular Developer Intern",
+    "company": "Adobe India",
+    "location": "Delhi, India",
+    "domain": "Web Development",
+    "skills": [
+      "typescript",
+      "react",
+      "django",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 90,
+    "title": "Web Developer Intern",
+    "company": "Chargebee",
+    "location": "Noida, India",
+    "domain": "Web Development",
+    "skills": [
+      "php",
+      "postgresql",
+      "django",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 91,
+    "title": "Node.js Developer Intern",
+    "company": "Swiggy",
+    "location": "Noida, India",
+    "domain": "Web Development",
+    "skills": [
+      "next.js",
+      "react",
+      "mongodb"
+    ]
+  },
+  {
+    "job_id": 92,
+    "title": "React Developer Intern",
+    "company": "PharmEasy",
+    "location": "Mumbai, India",
+    "domain": "Web Development",
+    "skills": [
+      "react",
+      "javascript",
+      "angular",
+      "vue.js",
+      "bootstrap"
+    ]
+  },
+  {
+    "job_id": 93,
+    "title": "Full Stack Developer Intern",
+    "company": "Unacademy",
+    "location": "Delhi, India",
+    "domain": "Web Development",
+    "skills": [
+      "redis",
+      "html",
+      "tailwind css",
+      "vue.js"
+    ]
+  },
+  {
+    "job_id": 94,
+    "title": "Vue.js Developer Intern",
+    "company": "Sigmoid",
+    "location": "Pune, India",
+    "domain": "Web Development",
+    "skills": [
+      "typescript",
+      "bootstrap",
+      "html",
+      "flask"
+    ]
+  },
+  {
+    "job_id": 95,
+    "title": "Backend Developer Intern",
+    "company": "Bounce",
+    "location": "Bangalore, India",
+    "domain": "Web Development",
+    "skills": [
+      "tailwind css",
+      "redis",
+      "postgresql",
+      "vue.js"
+    ]
+  },
+  {
+    "job_id": 96,
+    "title": "Backend Developer Intern",
+    "company": "Yulu",
+    "location": "Jaipur, India",
+    "domain": "Web Development",
+    "skills": [
+      "angular",
+      "html",
+      "flask",
+      "redis",
+      "bootstrap"
+    ]
+  },
+  {
+    "job_id": 97,
+    "title": "Shopify Developer Intern",
+    "company": "Freshworks",
+    "location": "Chandigarh, India",
+    "domain": "Web Development",
+    "skills": [
+      "react",
+      "mongodb",
+      "next.js",
+      "rest api",
+      "redis"
+    ]
+  },
+  {
+    "job_id": 98,
+    "title": "Web Developer Intern",
+    "company": "Paytm",
+    "location": "Gurgaon, India",
+    "domain": "Web Development",
+    "skills": [
+      "php",
+      "javascript",
+      "rest api",
+      "webpack",
+      "html"
+    ]
+  },
+  {
+    "job_id": 99,
+    "title": "JavaScript Developer Intern",
+    "company": "Lenskart",
+    "location": "Remote, India",
+    "domain": "Web Development",
+    "skills": [
+      "css",
+      "rest api",
+      "typescript",
+      "git"
+    ]
+  },
+  {
+    "job_id": 100,
+    "title": "Angular Developer Intern",
+    "company": "Scaler",
+    "location": "Ahmedabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "webpack",
+      "graphql",
+      "rest api",
+      "tailwind css",
+      "django"
+    ]
+  },
+  {
+    "job_id": 101,
+    "title": "Web Developer Intern",
+    "company": "BYJU'S",
+    "location": "Indore, India",
+    "domain": "Web Development",
+    "skills": [
+      "django",
+      "graphql",
+      "angular"
+    ]
+  },
+  {
+    "job_id": 102,
+    "title": "Shopify Developer Intern",
+    "company": "Capgemini",
+    "location": "Ahmedabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "redis",
+      "postgresql",
+      "php",
+      "javascript",
+      "webpack"
+    ]
+  },
+  {
+    "job_id": 103,
+    "title": "Web Performance Intern",
+    "company": "Delhivery",
+    "location": "Delhi, India",
+    "domain": "Web Development",
+    "skills": [
+      "vue.js",
+      "mongodb",
+      "django",
+      "php"
+    ]
+  },
+  {
+    "job_id": 104,
+    "title": "Node.js Developer Intern",
+    "company": "Vogo",
+    "location": "Jaipur, India",
+    "domain": "Web Development",
+    "skills": [
+      "next.js",
+      "javascript",
+      "git",
+      "vue.js"
+    ]
+  },
+  {
+    "job_id": 105,
+    "title": "Backend Developer Intern",
+    "company": "Unacademy",
+    "location": "Jaipur, India",
+    "domain": "Web Development",
+    "skills": [
+      "webpack",
+      "next.js",
+      "angular",
+      "jquery"
+    ]
+  },
+  {
+    "job_id": 106,
+    "title": "WordPress Developer Intern",
+    "company": "Mphasis",
+    "location": "Noida, India",
+    "domain": "Web Development",
+    "skills": [
+      "node.js",
+      "flask",
+      "angular"
+    ]
+  },
+  {
+    "job_id": 107,
+    "title": "JavaScript Developer Intern",
+    "company": "Vedic Gradients",
+    "location": "Hyderabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "redis",
+      "tailwind css",
+      "mongodb",
+      "webpack"
+    ]
+  },
+  {
+    "job_id": 108,
+    "title": "Django Developer Intern",
+    "company": "slice",
+    "location": "Chennai, India",
+    "domain": "Web Development",
+    "skills": [
+      "next.js",
+      "php",
+      "mongodb",
+      "graphql"
+    ]
+  },
+  {
+    "job_id": 109,
+    "title": "Node.js Developer Intern",
+    "company": "Josh Talks",
+    "location": "Pune, India",
+    "domain": "Web Development",
+    "skills": [
+      "html",
+      "vue.js",
+      "php"
+    ]
+  },
+  {
+    "job_id": 110,
+    "title": "Backend Developer Intern",
+    "company": "FarEye",
+    "location": "Gurgaon, India",
+    "domain": "Web Development",
+    "skills": [
+      "typescript",
+      "vue.js",
+      "webpack",
+      "django",
+      "tailwind css"
+    ]
+  },
+  {
+    "job_id": 111,
+    "title": "Shopify Developer Intern",
+    "company": "slice",
+    "location": "Ahmedabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "html",
+      "vue.js",
+      "flask",
+      "angular"
+    ]
+  },
+  {
+    "job_id": 112,
+    "title": "Web Developer Intern",
+    "company": "Persistent Systems",
+    "location": "Pune, India",
+    "domain": "Web Development",
+    "skills": [
+      "next.js",
+      "css",
+      "django"
+    ]
+  },
+  {
+    "job_id": 113,
+    "title": "Frontend Developer Intern",
+    "company": "CRED",
+    "location": "Gurgaon, India",
+    "domain": "Web Development",
+    "skills": [
+      "css",
+      "jquery",
+      "webpack",
+      "html"
+    ]
+  },
+  {
+    "job_id": 114,
+    "title": "Web Performance Intern",
+    "company": "Microsoft India",
+    "location": "Ahmedabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "webpack",
+      "graphql",
+      "php",
+      "typescript"
+    ]
+  },
+  {
+    "job_id": 115,
+    "title": "Frontend Developer Intern",
+    "company": "Vedantu",
+    "location": "Indore, India",
+    "domain": "Web Development",
+    "skills": [
+      "html",
+      "node.js",
+      "postgresql",
+      "webpack"
+    ]
+  },
+  {
+    "job_id": 116,
+    "title": "Backend Developer Intern",
+    "company": "Ola Electric",
+    "location": "Remote, India",
+    "domain": "Web Development",
+    "skills": [
+      "react",
+      "css",
+      "tailwind css",
+      "flask",
+      "node.js"
+    ]
+  },
+  {
+    "job_id": 117,
+    "title": "React Developer Intern",
+    "company": "Freshworks",
+    "location": "Gurgaon, India",
+    "domain": "Web Development",
+    "skills": [
+      "bootstrap",
+      "angular",
+      "git",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 118,
+    "title": "Vue.js Developer Intern",
+    "company": "Intel India",
+    "location": "Pune, India",
+    "domain": "Web Development",
+    "skills": [
+      "rest api",
+      "flask",
+      "tailwind css",
+      "bootstrap",
+      "react"
+    ]
+  },
+  {
+    "job_id": 119,
+    "title": "Next.js Developer Intern",
+    "company": "Rivigo",
+    "location": "Mumbai, India",
+    "domain": "Web Development",
+    "skills": [
+      "jquery",
+      "vue.js",
+      "django"
+    ]
+  },
+  {
+    "job_id": 120,
+    "title": "Angular Developer Intern",
+    "company": "Swiggy",
+    "location": "Delhi, India",
+    "domain": "Web Development",
+    "skills": [
+      "typescript",
+      "next.js",
+      "node.js"
+    ]
+  },
+  {
+    "job_id": 121,
+    "title": "Full Stack Developer Intern",
+    "company": "Google India",
+    "location": "Kolkata, India",
+    "domain": "Web Development",
+    "skills": [
+      "bootstrap",
+      "webpack",
+      "flask",
+      "react"
+    ]
+  },
+  {
+    "job_id": 122,
+    "title": "React Developer Intern",
+    "company": "InMobi",
+    "location": "Jaipur, India",
+    "domain": "Web Development",
+    "skills": [
+      "graphql",
+      "node.js",
+      "redis",
+      "angular"
+    ]
+  },
+  {
+    "job_id": 123,
+    "title": "Node.js Developer Intern",
+    "company": "BigHaat",
+    "location": "Ahmedabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "vue.js",
+      "rest api",
+      "html",
+      "next.js",
+      "angular"
+    ]
+  },
+  {
+    "job_id": 124,
+    "title": "Angular Developer Intern",
+    "company": "Wipro",
+    "location": "Coimbatore, India",
+    "domain": "Web Development",
+    "skills": [
+      "css",
+      "node.js",
+      "react",
+      "typescript"
+    ]
+  },
+  {
+    "job_id": 125,
+    "title": "Shopify Developer Intern",
+    "company": "Josh Talks",
+    "location": "Ahmedabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "tailwind css",
+      "flask",
+      "graphql",
+      "html",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 126,
+    "title": "Node.js Developer Intern",
+    "company": "Niyo",
+    "location": "Gurgaon, India",
+    "domain": "Web Development",
+    "skills": [
+      "graphql",
+      "node.js",
+      "bootstrap",
+      "react"
+    ]
+  },
+  {
+    "job_id": 127,
+    "title": "JavaScript Developer Intern",
+    "company": "Rivigo",
+    "location": "Chennai, India",
+    "domain": "Web Development",
+    "skills": [
+      "django",
+      "javascript",
+      "node.js",
+      "angular",
+      "redis"
+    ]
+  },
+  {
+    "job_id": 128,
+    "title": "Web Performance Intern",
+    "company": "Ola Electric",
+    "location": "Ahmedabad, India",
+    "domain": "Web Development",
+    "skills": [
+      "redis",
+      "django",
+      "tailwind css"
+    ]
+  },
+  {
+    "job_id": 129,
+    "title": "Frontend Developer Intern",
+    "company": "Loginext",
+    "location": "Delhi, India",
+    "domain": "Web Development",
+    "skills": [
+      "git",
+      "jquery",
+      "graphql",
+      "django"
+    ]
+  },
+  {
+    "job_id": 130,
+    "title": "Full Stack Developer Intern",
+    "company": "Bounce",
+    "location": "Kolkata, India",
+    "domain": "Web Development",
+    "skills": [
+      "webpack",
+      "node.js",
+      "mongodb",
+      "rest api",
+      "php"
+    ]
+  },
+  {
+    "job_id": 131,
+    "title": "Web Developer Intern",
+    "company": "Netmeds",
+    "location": "Mumbai, India",
+    "domain": "Web Development",
+    "skills": [
+      "php",
+      "rest api",
+      "webpack"
+    ]
+  },
+  {
+    "job_id": 132,
+    "title": "Node.js Developer Intern",
+    "company": "1mg",
+    "location": "Kolkata, India",
+    "domain": "Web Development",
+    "skills": [
+      "react",
+      "graphql",
+      "node.js",
+      "php",
+      "django"
+    ]
+  },
+  {
+    "job_id": 133,
+    "title": "Web Developer Intern",
+    "company": "Zerodha",
+    "location": "Chandigarh, India",
+    "domain": "Web Development",
+    "skills": [
+      "git",
+      "javascript",
+      "redis",
+      "next.js"
+    ]
+  },
+  {
+    "job_id": 134,
+    "title": "Vue.js Developer Intern",
+    "company": "Oracle India",
+    "location": "Bangalore, India",
+    "domain": "Web Development",
+    "skills": [
+      "git",
+      "mongodb",
+      "bootstrap"
+    ]
+  },
+  {
+    "job_id": 135,
+    "title": "Shopify Developer Intern",
+    "company": "Hexaware",
+    "location": "Remote, India",
+    "domain": "Web Development",
+    "skills": [
+      "react",
+      "vue.js",
+      "django",
+      "next.js"
+    ]
+  },
+  {
+    "job_id": 136,
+    "title": "Mobile App Developer Intern",
+    "company": "InMobi",
+    "location": "Noida, India",
+    "domain": "Android Development",
+    "skills": [
+      "android studio",
+      "java",
+      "flutter",
+      "firebase",
+      "jetpack compose"
+    ]
+  },
+  {
+    "job_id": 137,
+    "title": "Mobile App Developer Intern",
+    "company": "Josh Talks",
+    "location": "Gurgaon, India",
+    "domain": "Android Development",
+    "skills": [
+      "retrofit",
+      "swift",
+      "kotlin"
+    ]
+  },
+  {
+    "job_id": 138,
+    "title": "Kotlin Developer Intern",
+    "company": "Zerodha",
+    "location": "Noida, India",
+    "domain": "Android Development",
+    "skills": [
+      "dart",
+      "android studio",
+      "git"
+    ]
+  },
+  {
+    "job_id": 139,
+    "title": "Android SDK Intern",
+    "company": "Fractal Analytics",
+    "location": "Pune, India",
+    "domain": "Android Development",
+    "skills": [
+      "android studio",
+      "room database",
+      "firebase",
+      "gradle"
+    ]
+  },
+  {
+    "job_id": 140,
+    "title": "Android SDK Intern",
+    "company": "TCS",
+    "location": "Kolkata, India",
+    "domain": "Android Development",
+    "skills": [
+      "mvvm",
+      "dart",
+      "kotlin"
+    ]
+  },
+  {
+    "job_id": 141,
+    "title": "React Native Developer Intern",
+    "company": "Salesforce India",
+    "location": "Chennai, India",
+    "domain": "Android Development",
+    "skills": [
+      "rest api",
+      "flutter",
+      "git",
+      "mvvm",
+      "swift"
+    ]
+  },
+  {
+    "job_id": 142,
+    "title": "App Performance Intern",
+    "company": "Bounce",
+    "location": "Remote, India",
+    "domain": "Android Development",
+    "skills": [
+      "dart",
+      "gradle",
+      "android studio",
+      "jetpack compose"
+    ]
+  },
+  {
+    "job_id": 143,
+    "title": "iOS Developer Intern",
+    "company": "Kissht",
+    "location": "Chandigarh, India",
+    "domain": "Android Development",
+    "skills": [
+      "ios",
+      "gradle",
+      "xml",
+      "mobile development",
+      "jetpack compose"
+    ]
+  },
+  {
+    "job_id": 144,
+    "title": "Kotlin Developer Intern",
+    "company": "Ola Electric",
+    "location": "Kolkata, India",
+    "domain": "Android Development",
+    "skills": [
+      "swift",
+      "android",
+      "xml"
+    ]
+  },
+  {
+    "job_id": 145,
+    "title": "Mobile UI Developer Intern",
+    "company": "Fractal Analytics",
+    "location": "Coimbatore, India",
+    "domain": "Android Development",
+    "skills": [
+      "ios",
+      "dart",
+      "android studio",
+      "android"
+    ]
+  },
+  {
+    "job_id": 146,
+    "title": "Mobile App Developer Intern",
+    "company": "Niyo",
+    "location": "Ahmedabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "java",
+      "gradle",
+      "room database",
+      "retrofit"
+    ]
+  },
+  {
+    "job_id": 147,
+    "title": "Android Developer Intern",
+    "company": "Locus",
+    "location": "Delhi, India",
+    "domain": "Android Development",
+    "skills": [
+      "dart",
+      "kotlin",
+      "android studio",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 148,
+    "title": "iOS Developer Intern",
+    "company": "AgroStar",
+    "location": "Jaipur, India",
+    "domain": "Android Development",
+    "skills": [
+      "kotlin",
+      "xml",
+      "ios",
+      "retrofit"
+    ]
+  },
+  {
+    "job_id": 149,
+    "title": "Mobile UI Developer Intern",
+    "company": "MoneyTap",
+    "location": "Bangalore, India",
+    "domain": "Android Development",
+    "skills": [
+      "kotlin",
+      "firebase",
+      "git",
+      "retrofit",
+      "jetpack compose"
+    ]
+  },
+  {
+    "job_id": 150,
+    "title": "Flutter Developer Intern",
+    "company": "Nvidia India",
+    "location": "Mumbai, India",
+    "domain": "Android Development",
+    "skills": [
+      "java",
+      "gradle",
+      "react native",
+      "git",
+      "retrofit"
+    ]
+  },
+  {
+    "job_id": 151,
+    "title": "Android Developer Intern",
+    "company": "Zomato",
+    "location": "Chennai, India",
+    "domain": "Android Development",
+    "skills": [
+      "git",
+      "jetpack compose",
+      "retrofit"
+    ]
+  },
+  {
+    "job_id": 152,
+    "title": "Cross Platform Developer Intern",
+    "company": "TCS",
+    "location": "Hyderabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "swift",
+      "react native",
+      "retrofit",
+      "mvvm",
+      "android"
+    ]
+  },
+  {
+    "job_id": 153,
+    "title": "App Performance Intern",
+    "company": "Mamaearth",
+    "location": "Ahmedabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "firebase",
+      "android studio",
+      "dart",
+      "room database",
+      "retrofit"
+    ]
+  },
+  {
+    "job_id": 154,
+    "title": "React Native Developer Intern",
+    "company": "Accenture",
+    "location": "Pune, India",
+    "domain": "Android Development",
+    "skills": [
+      "flutter",
+      "gradle",
+      "git",
+      "react native",
+      "android"
+    ]
+  },
+  {
+    "job_id": 155,
+    "title": "Mobile UI Developer Intern",
+    "company": "Rapido",
+    "location": "Ahmedabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "swift",
+      "rest api",
+      "gradle",
+      "git"
+    ]
+  },
+  {
+    "job_id": 156,
+    "title": "Kotlin Developer Intern",
+    "company": "boAt",
+    "location": "Indore, India",
+    "domain": "Android Development",
+    "skills": [
+      "java",
+      "firebase",
+      "ios",
+      "jetpack compose"
+    ]
+  },
+  {
+    "job_id": 157,
+    "title": "App Performance Intern",
+    "company": "ShareChat",
+    "location": "Jaipur, India",
+    "domain": "Android Development",
+    "skills": [
+      "flutter",
+      "ios",
+      "rest api",
+      "room database"
+    ]
+  },
+  {
+    "job_id": 158,
+    "title": "App Performance Intern",
+    "company": "Docprime",
+    "location": "Chandigarh, India",
+    "domain": "Android Development",
+    "skills": [
+      "android",
+      "android studio",
+      "git",
+      "firebase",
+      "mvvm"
+    ]
+  },
+  {
+    "job_id": 159,
+    "title": "iOS Developer Intern",
+    "company": "Hasura",
+    "location": "Remote, India",
+    "domain": "Android Development",
+    "skills": [
+      "rest api",
+      "dart",
+      "java"
+    ]
+  },
+  {
+    "job_id": 160,
+    "title": "Android Developer Intern",
+    "company": "Josh Talks",
+    "location": "Chandigarh, India",
+    "domain": "Android Development",
+    "skills": [
+      "android",
+      "jetpack compose",
+      "dart",
+      "kotlin"
+    ]
+  },
+  {
+    "job_id": 161,
+    "title": "React Native Developer Intern",
+    "company": "Delhivery",
+    "location": "Jaipur, India",
+    "domain": "Android Development",
+    "skills": [
+      "react native",
+      "mobile development",
+      "dart",
+      "jetpack compose"
+    ]
+  },
+  {
+    "job_id": 162,
+    "title": "Android SDK Intern",
+    "company": "Niyo",
+    "location": "Coimbatore, India",
+    "domain": "Android Development",
+    "skills": [
+      "react native",
+      "rest api",
+      "android studio",
+      "git"
+    ]
+  },
+  {
+    "job_id": 163,
+    "title": "iOS Developer Intern",
+    "company": "Zerodha",
+    "location": "Noida, India",
+    "domain": "Android Development",
+    "skills": [
+      "dart",
+      "firebase",
+      "ios"
+    ]
+  },
+  {
+    "job_id": 164,
+    "title": "Android SDK Intern",
+    "company": "Lenskart",
+    "location": "Mumbai, India",
+    "domain": "Android Development",
+    "skills": [
+      "flutter",
+      "rest api",
+      "java",
+      "gradle"
+    ]
+  },
+  {
+    "job_id": 165,
+    "title": "iOS Developer Intern",
+    "company": "MFine",
+    "location": "Jaipur, India",
+    "domain": "Android Development",
+    "skills": [
+      "rest api",
+      "ios",
+      "jetpack compose",
+      "java",
+      "xml"
+    ]
+  },
+  {
+    "job_id": 166,
+    "title": "Kotlin Developer Intern",
+    "company": "Cognizant",
+    "location": "Bangalore, India",
+    "domain": "Android Development",
+    "skills": [
+      "retrofit",
+      "xml",
+      "firebase",
+      "kotlin",
+      "room database"
+    ]
+  },
+  {
+    "job_id": 167,
+    "title": "Mobile UI Developer Intern",
+    "company": "Sigmoid",
+    "location": "Pune, India",
+    "domain": "Android Development",
+    "skills": [
+      "swift",
+      "java",
+      "dart",
+      "android",
+      "flutter"
+    ]
+  },
+  {
+    "job_id": 168,
+    "title": "React Native Developer Intern",
+    "company": "Hexaware",
+    "location": "Mumbai, India",
+    "domain": "Android Development",
+    "skills": [
+      "firebase",
+      "retrofit",
+      "dart"
+    ]
+  },
+  {
+    "job_id": 169,
+    "title": "Cross Platform Developer Intern",
+    "company": "Accenture",
+    "location": "Chennai, India",
+    "domain": "Android Development",
+    "skills": [
+      "retrofit",
+      "swift",
+      "dart",
+      "room database",
+      "xml"
+    ]
+  },
+  {
+    "job_id": 170,
+    "title": "Flutter Developer Intern",
+    "company": "Mphasis",
+    "location": "Ahmedabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "rest api",
+      "android",
+      "jetpack compose",
+      "mobile development"
+    ]
+  },
+  {
+    "job_id": 171,
+    "title": "Mobile UI Developer Intern",
+    "company": "Intel India",
+    "location": "Hyderabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "java",
+      "jetpack compose",
+      "retrofit",
+      "android"
+    ]
+  },
+  {
+    "job_id": 172,
+    "title": "Cross Platform Developer Intern",
+    "company": "Springboard",
+    "location": "Hyderabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "gradle",
+      "kotlin",
+      "mobile development"
+    ]
+  },
+  {
+    "job_id": 173,
+    "title": "App Performance Intern",
+    "company": "Amazon India",
+    "location": "Bangalore, India",
+    "domain": "Android Development",
+    "skills": [
+      "firebase",
+      "dart",
+      "mobile development",
+      "kotlin"
+    ]
+  },
+  {
+    "job_id": 174,
+    "title": "Android SDK Intern",
+    "company": "Druva",
+    "location": "Ahmedabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "firebase",
+      "xml",
+      "dart"
+    ]
+  },
+  {
+    "job_id": 175,
+    "title": "App Performance Intern",
+    "company": "Google India",
+    "location": "Pune, India",
+    "domain": "Android Development",
+    "skills": [
+      "dart",
+      "retrofit",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 176,
+    "title": "Mobile App Developer Intern",
+    "company": "Zerodha",
+    "location": "Remote, India",
+    "domain": "Android Development",
+    "skills": [
+      "dart",
+      "flutter",
+      "jetpack compose"
+    ]
+  },
+  {
+    "job_id": 177,
+    "title": "Kotlin Developer Intern",
+    "company": "Yulu",
+    "location": "Chennai, India",
+    "domain": "Android Development",
+    "skills": [
+      "react native",
+      "rest api",
+      "android"
+    ]
+  },
+  {
+    "job_id": 178,
+    "title": "Mobile App Developer Intern",
+    "company": "Rivigo",
+    "location": "Kolkata, India",
+    "domain": "Android Development",
+    "skills": [
+      "java",
+      "kotlin",
+      "android studio",
+      "gradle",
+      "ios"
+    ]
+  },
+  {
+    "job_id": 179,
+    "title": "iOS Developer Intern",
+    "company": "Jupiter",
+    "location": "Ahmedabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "gradle",
+      "mvvm",
+      "firebase"
+    ]
+  },
+  {
+    "job_id": 180,
+    "title": "App Performance Intern",
+    "company": "Zomato",
+    "location": "Jaipur, India",
+    "domain": "Android Development",
+    "skills": [
+      "mvvm",
+      "git",
+      "gradle",
+      "flutter",
+      "android studio"
+    ]
+  },
+  {
+    "job_id": 181,
+    "title": "Mobile UI Developer Intern",
+    "company": "IBM India",
+    "location": "Kolkata, India",
+    "domain": "Android Development",
+    "skills": [
+      "java",
+      "android studio",
+      "gradle",
+      "kotlin",
+      "mvvm"
+    ]
+  },
+  {
+    "job_id": 182,
+    "title": "Flutter Developer Intern",
+    "company": "Delhivery",
+    "location": "Ahmedabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "kotlin",
+      "dart",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 183,
+    "title": "App Performance Intern",
+    "company": "FreshToHome",
+    "location": "Ahmedabad, India",
+    "domain": "Android Development",
+    "skills": [
+      "xml",
+      "ios",
+      "mvvm",
+      "git",
+      "firebase"
+    ]
+  },
+  {
+    "job_id": 184,
+    "title": "Android SDK Intern",
+    "company": "Ninjacart",
+    "location": "Kolkata, India",
+    "domain": "Android Development",
+    "skills": [
+      "java",
+      "retrofit",
+      "mobile development"
+    ]
+  },
+  {
+    "job_id": 185,
+    "title": "Cross Platform Developer Intern",
+    "company": "Qualcomm India",
+    "location": "Coimbatore, India",
+    "domain": "Android Development",
+    "skills": [
+      "swift",
+      "xml",
+      "gradle"
+    ]
+  },
+  {
+    "job_id": 186,
+    "title": "Data Warehouse Intern",
+    "company": "Salesforce India",
+    "location": "Jaipur, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "mongodb",
+      "gcp",
+      "bigquery"
+    ]
+  },
+  {
+    "job_id": 187,
+    "title": "Analytics Engineer Intern",
+    "company": "Nykaa",
+    "location": "Delhi, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "snowflake",
+      "spark",
+      "gcp",
+      "hadoop",
+      "data warehousing"
+    ]
+  },
+  {
+    "job_id": 188,
+    "title": "Big Data Intern",
+    "company": "EarlySalary",
+    "location": "Bangalore, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "tableau",
+      "mongodb",
+      "bigquery",
+      "hadoop",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 189,
+    "title": "Database Engineer Intern",
+    "company": "Netmeds",
+    "location": "Chandigarh, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "sql",
+      "mysql",
+      "looker",
+      "data warehousing"
+    ]
+  },
+  {
+    "job_id": 190,
+    "title": "ETL Developer Intern",
+    "company": "Ola Electric",
+    "location": "Gurgaon, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "kafka",
+      "bigquery",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 191,
+    "title": "Data Pipeline Intern",
+    "company": "Groww",
+    "location": "Chennai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "data warehousing",
+      "hadoop",
+      "postgresql",
+      "power bi",
+      "etl"
+    ]
+  },
+  {
+    "job_id": 192,
+    "title": "Data Warehouse Intern",
+    "company": "EarlySalary",
+    "location": "Chandigarh, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "looker",
+      "bigquery",
+      "redshift",
+      "tableau",
+      "python"
+    ]
+  },
+  {
+    "job_id": 193,
+    "title": "Stream Processing Intern",
+    "company": "1mg",
+    "location": "Indore, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "postgresql",
+      "python",
+      "airflow",
+      "mysql",
+      "mongodb"
+    ]
+  },
+  {
+    "job_id": 194,
+    "title": "Database Engineer Intern",
+    "company": "Google India",
+    "location": "Delhi, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "power bi",
+      "bigquery",
+      "aws"
+    ]
+  },
+  {
+    "job_id": 195,
+    "title": "ETL Developer Intern",
+    "company": "TCS",
+    "location": "Jaipur, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "python",
+      "spark",
+      "dbt",
+      "data pipelines",
+      "aws"
+    ]
+  },
+  {
+    "job_id": 196,
+    "title": "Data Warehouse Intern",
+    "company": "Accenture",
+    "location": "Chennai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "data warehousing",
+      "mysql",
+      "mongodb"
+    ]
+  },
+  {
+    "job_id": 197,
+    "title": "Stream Processing Intern",
+    "company": "Vogo",
+    "location": "Mumbai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "kafka",
+      "airflow",
+      "looker"
+    ]
+  },
+  {
+    "job_id": 198,
+    "title": "Data Engineer Intern",
+    "company": "MFine",
+    "location": "Mumbai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "azure",
+      "bigquery",
+      "gcp",
+      "snowflake"
+    ]
+  },
+  {
+    "job_id": 199,
+    "title": "Stream Processing Intern",
+    "company": "Intel India",
+    "location": "Kolkata, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "data pipelines",
+      "dbt",
+      "hadoop",
+      "data warehousing"
+    ]
+  },
+  {
+    "job_id": 200,
+    "title": "Data Warehouse Intern",
+    "company": "Zerodha",
+    "location": "Pune, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "bigquery",
+      "power bi",
+      "snowflake",
+      "dbt",
+      "mysql"
+    ]
+  },
+  {
+    "job_id": 201,
+    "title": "Data Engineer Intern",
+    "company": "Hasura",
+    "location": "Kolkata, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "sql",
+      "python",
+      "data pipelines",
+      "mysql",
+      "kafka"
+    ]
+  },
+  {
+    "job_id": 202,
+    "title": "Analytics Engineer Intern",
+    "company": "ShareChat",
+    "location": "Chennai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "python",
+      "snowflake",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 203,
+    "title": "Big Data Intern",
+    "company": "Zoho",
+    "location": "Kolkata, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "etl",
+      "dbt",
+      "tableau",
+      "bigquery",
+      "data warehousing"
+    ]
+  },
+  {
+    "job_id": 204,
+    "title": "ETL Developer Intern",
+    "company": "Samsung India",
+    "location": "Indore, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "sql",
+      "gcp",
+      "python",
+      "azure",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 205,
+    "title": "Database Engineer Intern",
+    "company": "Ola Electric",
+    "location": "Kolkata, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "aws",
+      "redshift",
+      "gcp",
+      "mysql",
+      "hadoop"
+    ]
+  },
+  {
+    "job_id": 206,
+    "title": "Data Warehouse Intern",
+    "company": "Amazon India",
+    "location": "Chennai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "looker",
+      "azure",
+      "data warehousing"
+    ]
+  },
+  {
+    "job_id": 207,
+    "title": "ETL Developer Intern",
+    "company": "Nvidia India",
+    "location": "Indore, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "etl",
+      "gcp",
+      "power bi"
+    ]
+  },
+  {
+    "job_id": 208,
+    "title": "Data Warehouse Intern",
+    "company": "slice",
+    "location": "Mumbai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "mysql",
+      "mongodb",
+      "etl",
+      "airflow"
+    ]
+  },
+  {
+    "job_id": 209,
+    "title": "ETL Developer Intern",
+    "company": "Jupiter",
+    "location": "Remote, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "dbt",
+      "data pipelines",
+      "data warehousing"
+    ]
+  },
+  {
+    "job_id": 210,
+    "title": "Database Engineer Intern",
+    "company": "Elasticrun",
+    "location": "Indore, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "kafka",
+      "etl",
+      "hadoop",
+      "postgresql",
+      "data pipelines"
+    ]
+  },
+  {
+    "job_id": 211,
+    "title": "Big Data Intern",
+    "company": "Ninjacart",
+    "location": "Delhi, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "spark",
+      "airflow",
+      "redshift",
+      "snowflake",
+      "azure"
+    ]
+  },
+  {
+    "job_id": 212,
+    "title": "Stream Processing Intern",
+    "company": "Bounce",
+    "location": "Noida, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "power bi",
+      "redshift",
+      "looker",
+      "mongodb",
+      "kafka"
+    ]
+  },
+  {
+    "job_id": 213,
+    "title": "BI Developer Intern",
+    "company": "Paytm",
+    "location": "Noida, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "redshift",
+      "mysql",
+      "postgresql",
+      "power bi"
+    ]
+  },
+  {
+    "job_id": 214,
+    "title": "Data Engineer Intern",
+    "company": "Urban Company",
+    "location": "Gurgaon, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "mysql",
+      "azure",
+      "sql"
+    ]
+  },
+  {
+    "job_id": 215,
+    "title": "Data Engineer Intern",
+    "company": "Nykaa",
+    "location": "Indore, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "spark",
+      "redshift",
+      "looker",
+      "dbt"
+    ]
+  },
+  {
+    "job_id": 216,
+    "title": "Data Warehouse Intern",
+    "company": "Capgemini",
+    "location": "Ahmedabad, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "sql",
+      "azure",
+      "power bi",
+      "redshift",
+      "data pipelines"
+    ]
+  },
+  {
+    "job_id": 217,
+    "title": "Database Engineer Intern",
+    "company": "Ninjacart",
+    "location": "Noida, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "kafka",
+      "sql",
+      "azure",
+      "hadoop",
+      "mongodb"
+    ]
+  },
+  {
+    "job_id": 218,
+    "title": "ETL Developer Intern",
+    "company": "Niyo",
+    "location": "Remote, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "sql",
+      "etl",
+      "azure"
+    ]
+  },
+  {
+    "job_id": 219,
+    "title": "BI Developer Intern",
+    "company": "slice",
+    "location": "Gurgaon, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "airflow",
+      "data warehousing",
+      "mysql",
+      "aws",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 220,
+    "title": "Database Engineer Intern",
+    "company": "MFine",
+    "location": "Ahmedabad, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "redshift",
+      "mongodb",
+      "spark"
+    ]
+  },
+  {
+    "job_id": 221,
+    "title": "Database Engineer Intern",
+    "company": "Zepto",
+    "location": "Gurgaon, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "aws",
+      "mysql",
+      "postgresql",
+      "bigquery",
+      "looker"
+    ]
+  },
+  {
+    "job_id": 222,
+    "title": "Big Data Intern",
+    "company": "BlackBuck",
+    "location": "Mumbai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "bigquery",
+      "kafka",
+      "data warehousing",
+      "mysql",
+      "redshift"
+    ]
+  },
+  {
+    "job_id": 223,
+    "title": "Data Warehouse Intern",
+    "company": "Zoho",
+    "location": "Ahmedabad, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "spark",
+      "mysql",
+      "tableau",
+      "aws",
+      "redshift"
+    ]
+  },
+  {
+    "job_id": 224,
+    "title": "Database Engineer Intern",
+    "company": "Zoho",
+    "location": "Remote, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "bigquery",
+      "dbt",
+      "spark",
+      "redshift",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 225,
+    "title": "Data Infrastructure Intern",
+    "company": "Lenskart",
+    "location": "Bangalore, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "mysql",
+      "airflow",
+      "data pipelines",
+      "mongodb"
+    ]
+  },
+  {
+    "job_id": 226,
+    "title": "BI Developer Intern",
+    "company": "Postman",
+    "location": "Hyderabad, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "kafka",
+      "spark",
+      "mysql"
+    ]
+  },
+  {
+    "job_id": 227,
+    "title": "ETL Developer Intern",
+    "company": "Niyo",
+    "location": "Chandigarh, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "dbt",
+      "sql",
+      "bigquery",
+      "mongodb",
+      "looker"
+    ]
+  },
+  {
+    "job_id": 228,
+    "title": "Big Data Intern",
+    "company": "Vogo",
+    "location": "Kolkata, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "airflow",
+      "looker",
+      "azure"
+    ]
+  },
+  {
+    "job_id": 229,
+    "title": "Data Engineer Intern",
+    "company": "Oracle India",
+    "location": "Chennai, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "etl",
+      "azure",
+      "looker",
+      "mysql",
+      "tableau"
+    ]
+  },
+  {
+    "job_id": 230,
+    "title": "Data Pipeline Intern",
+    "company": "Josh Talks",
+    "location": "Chandigarh, India",
+    "domain": "Data Engineering",
+    "skills": [
+      "data pipelines",
+      "data warehousing",
+      "bigquery",
+      "power bi"
+    ]
+  },
+  {
+    "job_id": 231,
+    "title": "Kubernetes Intern",
+    "company": "Capgemini",
+    "location": "Chandigarh, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "devops",
+      "prometheus",
+      "gitlab",
+      "cloud computing"
+    ]
+  },
+  {
+    "job_id": 232,
+    "title": "Site Reliability Intern",
+    "company": "BrowserStack",
+    "location": "Chandigarh, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "kubernetes",
+      "linux",
+      "azure",
+      "git",
+      "monitoring"
+    ]
+  },
+  {
+    "job_id": 233,
+    "title": "Platform Engineer Intern",
+    "company": "Groww",
+    "location": "Jaipur, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "docker",
+      "bash",
+      "gcp",
+      "terraform",
+      "linux"
+    ]
+  },
+  {
+    "job_id": 234,
+    "title": "Kubernetes Intern",
+    "company": "Jupiter",
+    "location": "Delhi, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "gcp",
+      "jenkins",
+      "networking",
+      "monitoring"
+    ]
+  },
+  {
+    "job_id": 235,
+    "title": "DevOps Intern",
+    "company": "Salesforce India",
+    "location": "Bangalore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "prometheus",
+      "monitoring",
+      "jenkins",
+      "devops"
+    ]
+  },
+  {
+    "job_id": 236,
+    "title": "Cloud Engineer Intern",
+    "company": "Nykaa",
+    "location": "Hyderabad, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "ansible",
+      "docker",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 237,
+    "title": "Site Reliability Intern",
+    "company": "Infosys",
+    "location": "Bangalore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "git",
+      "kubernetes",
+      "github actions",
+      "networking"
+    ]
+  },
+  {
+    "job_id": 238,
+    "title": "Cloud Security Intern",
+    "company": "Google India",
+    "location": "Coimbatore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "aws",
+      "linux",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 239,
+    "title": "Site Reliability Intern",
+    "company": "Kissht",
+    "location": "Jaipur, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "prometheus",
+      "cloud computing",
+      "docker",
+      "bash",
+      "jenkins"
+    ]
+  },
+  {
+    "job_id": 240,
+    "title": "AWS Cloud Intern",
+    "company": "Freshworks",
+    "location": "Bangalore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "cloud computing",
+      "gitlab",
+      "networking"
+    ]
+  },
+  {
+    "job_id": 241,
+    "title": "Cloud Engineer Intern",
+    "company": "Zerodha",
+    "location": "Indore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "gitlab",
+      "grafana",
+      "aws",
+      "prometheus"
+    ]
+  },
+  {
+    "job_id": 242,
+    "title": "Cloud Security Intern",
+    "company": "Unacademy",
+    "location": "Jaipur, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "bash",
+      "cloud computing",
+      "aws"
+    ]
+  },
+  {
+    "job_id": 243,
+    "title": "Cloud Security Intern",
+    "company": "Urban Company",
+    "location": "Hyderabad, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "cloud computing",
+      "terraform",
+      "gcp",
+      "prometheus",
+      "monitoring"
+    ]
+  },
+  {
+    "job_id": 244,
+    "title": "Cloud Engineer Intern",
+    "company": "slice",
+    "location": "Gurgaon, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "prometheus",
+      "grafana",
+      "aws",
+      "devops",
+      "git"
+    ]
+  },
+  {
+    "job_id": 245,
+    "title": "DevOps Intern",
+    "company": "FreshToHome",
+    "location": "Kolkata, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "linux",
+      "aws",
+      "monitoring",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 246,
+    "title": "Azure Developer Intern",
+    "company": "Unacademy",
+    "location": "Jaipur, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "github actions",
+      "docker",
+      "helm",
+      "ansible",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 247,
+    "title": "DevOps Intern",
+    "company": "Urban Company",
+    "location": "Gurgaon, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "github actions",
+      "terraform",
+      "networking",
+      "git"
+    ]
+  },
+  {
+    "job_id": 248,
+    "title": "CI/CD Engineer Intern",
+    "company": "Mphasis",
+    "location": "Chandigarh, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "gcp",
+      "networking",
+      "azure"
+    ]
+  },
+  {
+    "job_id": 249,
+    "title": "AWS Cloud Intern",
+    "company": "BrowserStack",
+    "location": "Bangalore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "azure",
+      "ansible",
+      "bash"
+    ]
+  },
+  {
+    "job_id": 250,
+    "title": "Platform Engineer Intern",
+    "company": "Samsung India",
+    "location": "Indore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "git",
+      "linux",
+      "azure",
+      "ci/cd",
+      "bash"
+    ]
+  },
+  {
+    "job_id": 251,
+    "title": "Azure Developer Intern",
+    "company": "CRED",
+    "location": "Indore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "ansible",
+      "linux",
+      "docker",
+      "monitoring",
+      "cloud computing"
+    ]
+  },
+  {
+    "job_id": 252,
+    "title": "GCP Engineer Intern",
+    "company": "FarEye",
+    "location": "Noida, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "ansible",
+      "terraform",
+      "git",
+      "helm"
+    ]
+  },
+  {
+    "job_id": 253,
+    "title": "Azure Developer Intern",
+    "company": "Fi Money",
+    "location": "Pune, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "cloud computing",
+      "gcp",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 254,
+    "title": "Cloud Security Intern",
+    "company": "Mphasis",
+    "location": "Gurgaon, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "ansible",
+      "docker",
+      "gcp",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 255,
+    "title": "CI/CD Engineer Intern",
+    "company": "ShareChat",
+    "location": "Pune, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "gitlab",
+      "cloud computing",
+      "terraform",
+      "networking"
+    ]
+  },
+  {
+    "job_id": 256,
+    "title": "Azure Developer Intern",
+    "company": "Qualcomm India",
+    "location": "Bangalore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "monitoring",
+      "gitlab",
+      "cloud computing",
+      "linux",
+      "azure"
+    ]
+  },
+  {
+    "job_id": 257,
+    "title": "Cloud Engineer Intern",
+    "company": "Netmeds",
+    "location": "Remote, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "monitoring",
+      "prometheus",
+      "terraform",
+      "aws"
+    ]
+  },
+  {
+    "job_id": 258,
+    "title": "Site Reliability Intern",
+    "company": "Ninjacart",
+    "location": "Remote, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "azure",
+      "kubernetes",
+      "gcp",
+      "jenkins"
+    ]
+  },
+  {
+    "job_id": 259,
+    "title": "CI/CD Engineer Intern",
+    "company": "Lenskart",
+    "location": "Chennai, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "helm",
+      "azure",
+      "kubernetes",
+      "networking"
+    ]
+  },
+  {
+    "job_id": 260,
+    "title": "Azure Developer Intern",
+    "company": "Nykaa",
+    "location": "Noida, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "helm",
+      "kubernetes",
+      "prometheus"
+    ]
+  },
+  {
+    "job_id": 261,
+    "title": "Azure Developer Intern",
+    "company": "Samsung India",
+    "location": "Chennai, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "linux",
+      "jenkins",
+      "docker",
+      "aws",
+      "terraform"
+    ]
+  },
+  {
+    "job_id": 262,
+    "title": "Kubernetes Intern",
+    "company": "Fi Money",
+    "location": "Kolkata, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "docker",
+      "linux",
+      "gitlab",
+      "networking",
+      "ci/cd"
+    ]
+  },
+  {
+    "job_id": 263,
+    "title": "Cloud Security Intern",
+    "company": "InMobi",
+    "location": "Jaipur, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "ci/cd",
+      "docker",
+      "kubernetes",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 264,
+    "title": "Kubernetes Intern",
+    "company": "Persistent Systems",
+    "location": "Coimbatore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "networking",
+      "gcp",
+      "ansible",
+      "monitoring",
+      "gitlab"
+    ]
+  },
+  {
+    "job_id": 265,
+    "title": "Platform Engineer Intern",
+    "company": "MoneyTap",
+    "location": "Pune, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "terraform",
+      "github actions",
+      "monitoring",
+      "prometheus"
+    ]
+  },
+  {
+    "job_id": 266,
+    "title": "Infrastructure Intern",
+    "company": "Freshworks",
+    "location": "Hyderabad, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "jenkins",
+      "git",
+      "aws"
+    ]
+  },
+  {
+    "job_id": 267,
+    "title": "Azure Developer Intern",
+    "company": "Kissht",
+    "location": "Ahmedabad, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "networking",
+      "grafana",
+      "kubernetes",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 268,
+    "title": "Cloud Engineer Intern",
+    "company": "Josh Talks",
+    "location": "Kolkata, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "git",
+      "prometheus",
+      "cloud computing",
+      "helm",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 269,
+    "title": "Site Reliability Intern",
+    "company": "Shiprocket",
+    "location": "Remote, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "networking",
+      "github actions",
+      "prometheus"
+    ]
+  },
+  {
+    "job_id": 270,
+    "title": "Azure Developer Intern",
+    "company": "Zoho",
+    "location": "Coimbatore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "github actions",
+      "helm",
+      "terraform",
+      "kubernetes",
+      "cloud computing"
+    ]
+  },
+  {
+    "job_id": 271,
+    "title": "Platform Engineer Intern",
+    "company": "Razorpay",
+    "location": "Indore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "prometheus",
+      "kubernetes",
+      "bash"
+    ]
+  },
+  {
+    "job_id": 272,
+    "title": "Site Reliability Intern",
+    "company": "HCL",
+    "location": "Chennai, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "jenkins",
+      "monitoring",
+      "prometheus",
+      "bash",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 273,
+    "title": "AWS Cloud Intern",
+    "company": "BrowserStack",
+    "location": "Remote, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "linux",
+      "kubernetes",
+      "bash",
+      "grafana",
+      "gcp"
+    ]
+  },
+  {
+    "job_id": 274,
+    "title": "Platform Engineer Intern",
+    "company": "Practo",
+    "location": "Delhi, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "helm",
+      "kubernetes",
+      "terraform",
+      "ansible",
+      "azure"
+    ]
+  },
+  {
+    "job_id": 275,
+    "title": "DevOps Intern",
+    "company": "Swiggy",
+    "location": "Bangalore, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "helm",
+      "linux",
+      "ci/cd",
+      "cloud computing",
+      "aws"
+    ]
+  },
+  {
+    "job_id": 276,
+    "title": "Kubernetes Intern",
+    "company": "BigHaat",
+    "location": "Gurgaon, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "github actions",
+      "bash",
+      "git",
+      "jenkins"
+    ]
+  },
+  {
+    "job_id": 277,
+    "title": "CI/CD Engineer Intern",
+    "company": "IBM India",
+    "location": "Pune, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "gcp",
+      "azure",
+      "terraform",
+      "networking"
+    ]
+  },
+  {
+    "job_id": 278,
+    "title": "GCP Engineer Intern",
+    "company": "Mindtree",
+    "location": "Noida, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "ansible",
+      "gitlab",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": 279,
+    "title": "Azure Developer Intern",
+    "company": "Mu Sigma",
+    "location": "Chennai, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "monitoring",
+      "devops",
+      "kubernetes",
+      "github actions",
+      "prometheus"
+    ]
+  },
+  {
+    "job_id": 280,
+    "title": "Platform Engineer Intern",
+    "company": "Groww",
+    "location": "Chennai, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "networking",
+      "docker",
+      "linux"
+    ]
+  },
+  {
+    "job_id": 281,
+    "title": "Kubernetes Intern",
+    "company": "BYJU'S",
+    "location": "Delhi, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "azure",
+      "bash",
+      "devops"
+    ]
+  },
+  {
+    "job_id": 282,
+    "title": "Cloud Security Intern",
+    "company": "Salesforce India",
+    "location": "Hyderabad, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "ansible",
+      "helm",
+      "github actions"
+    ]
+  },
+  {
+    "job_id": 283,
+    "title": "Infrastructure Intern",
+    "company": "HCL",
+    "location": "Noida, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "networking",
+      "git",
+      "bash",
+      "gitlab",
+      "aws"
+    ]
+  },
+  {
+    "job_id": 284,
+    "title": "Cloud Engineer Intern",
+    "company": "Samsung India",
+    "location": "Gurgaon, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "jenkins",
+      "ci/cd",
+      "helm",
+      "monitoring"
+    ]
+  },
+  {
+    "job_id": 285,
+    "title": "DevOps Intern",
+    "company": "CRED",
+    "location": "Pune, India",
+    "domain": "Cloud & DevOps",
+    "skills": [
+      "gitlab",
+      "git",
+      "bash",
+      "grafana"
+    ]
+  },
+  {
+    "job_id": 286,
+    "title": "Cybersecurity Intern",
+    "company": "Groww",
+    "location": "Kolkata, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "wireshark",
+      "siem",
+      "cryptography"
+    ]
+  },
+  {
+    "job_id": 287,
+    "title": "Application Security Intern",
+    "company": "Lenskart",
+    "location": "Bangalore, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "ethical hacking",
+      "kali linux",
+      "python",
+      "wireshark"
+    ]
+  },
+  {
+    "job_id": 288,
+    "title": "SOC Analyst Intern",
+    "company": "PhonePe",
+    "location": "Kolkata, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "metasploit",
+      "wireshark",
+      "burp suite",
+      "firewall",
+      "security operations"
+    ]
+  },
+  {
+    "job_id": 289,
+    "title": "Threat Intelligence Intern",
+    "company": "Freshworks",
+    "location": "Delhi, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "cryptography",
+      "siem",
+      "owasp"
+    ]
+  },
+  {
+    "job_id": 290,
+    "title": "Network Security Intern",
+    "company": "EarlySalary",
+    "location": "Chennai, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "kali linux",
+      "cryptography",
+      "wireshark"
+    ]
+  },
+  {
+    "job_id": 291,
+    "title": "Cybersecurity Intern",
+    "company": "Zomato",
+    "location": "Bangalore, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "security operations",
+      "nmap",
+      "wireshark"
+    ]
+  },
+  {
+    "job_id": 292,
+    "title": "Incident Response Intern",
+    "company": "Wipro",
+    "location": "Ahmedabad, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "linux",
+      "security operations",
+      "metasploit",
+      "firewall",
+      "python"
+    ]
+  },
+  {
+    "job_id": 293,
+    "title": "Ethical Hacking Intern",
+    "company": "Samsung India",
+    "location": "Ahmedabad, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "firewall",
+      "security operations",
+      "wireshark",
+      "burp suite",
+      "metasploit"
+    ]
+  },
+  {
+    "job_id": 294,
+    "title": "Malware Analyst Intern",
+    "company": "Mphasis",
+    "location": "Jaipur, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "firewall",
+      "nmap",
+      "burp suite",
+      "cybersecurity",
+      "python"
+    ]
+  },
+  {
+    "job_id": 295,
+    "title": "Network Security Intern",
+    "company": "MFine",
+    "location": "Mumbai, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "firewall",
+      "cybersecurity",
+      "owasp",
+      "vulnerability assessment"
+    ]
+  },
+  {
+    "job_id": 296,
+    "title": "SOC Analyst Intern",
+    "company": "PharmEasy",
+    "location": "Chandigarh, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "vulnerability assessment",
+      "ethical hacking",
+      "firewall",
+      "owasp",
+      "penetration testing"
+    ]
+  },
+  {
+    "job_id": 297,
+    "title": "Malware Analyst Intern",
+    "company": "BigHaat",
+    "location": "Jaipur, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "cryptography",
+      "linux",
+      "burp suite",
+      "security operations",
+      "network security"
+    ]
+  },
+  {
+    "job_id": 298,
+    "title": "Cybersecurity Intern",
+    "company": "Ola Electric",
+    "location": "Jaipur, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "kali linux",
+      "cybersecurity",
+      "vulnerability assessment"
+    ]
+  },
+  {
+    "job_id": 299,
+    "title": "Network Security Intern",
+    "company": "Salesforce India",
+    "location": "Delhi, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "kali linux",
+      "burp suite",
+      "wireshark",
+      "cryptography"
+    ]
+  },
+  {
+    "job_id": 300,
+    "title": "Threat Intelligence Intern",
+    "company": "Cognizant",
+    "location": "Indore, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "ethical hacking",
+      "linux",
+      "wireshark",
+      "network security",
+      "metasploit"
+    ]
+  },
+  {
+    "job_id": 301,
+    "title": "Network Security Intern",
+    "company": "1mg",
+    "location": "Noida, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "cryptography",
+      "security operations",
+      "penetration testing",
+      "vulnerability assessment",
+      "wireshark"
+    ]
+  },
+  {
+    "job_id": 302,
+    "title": "Network Security Intern",
+    "company": "MoneyTap",
+    "location": "Chennai, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "wireshark",
+      "nmap",
+      "network security",
+      "metasploit",
+      "linux"
+    ]
+  },
+  {
+    "job_id": 303,
+    "title": "Malware Analyst Intern",
+    "company": "Dailyhunt",
+    "location": "Hyderabad, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "firewall",
+      "kali linux",
+      "siem",
+      "metasploit"
+    ]
+  },
+  {
+    "job_id": 304,
+    "title": "Incident Response Intern",
+    "company": "Shiprocket",
+    "location": "Noida, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "wireshark",
+      "firewall",
+      "ethical hacking",
+      "nmap"
+    ]
+  },
+  {
+    "job_id": 305,
+    "title": "Malware Analyst Intern",
+    "company": "Mamaearth",
+    "location": "Coimbatore, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "siem",
+      "linux",
+      "nmap",
+      "cybersecurity"
+    ]
+  },
+  {
+    "job_id": 306,
+    "title": "SOC Analyst Intern",
+    "company": "Mu Sigma",
+    "location": "Mumbai, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "metasploit",
+      "wireshark",
+      "siem",
+      "vulnerability assessment"
+    ]
+  },
+  {
+    "job_id": 307,
+    "title": "Penetration Testing Intern",
+    "company": "BrowserStack",
+    "location": "Indore, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "wireshark",
+      "owasp",
+      "penetration testing",
+      "ethical hacking",
+      "firewall"
+    ]
+  },
+  {
+    "job_id": 308,
+    "title": "Threat Intelligence Intern",
+    "company": "Unacademy",
+    "location": "Hyderabad, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "owasp",
+      "vulnerability assessment",
+      "security operations"
+    ]
+  },
+  {
+    "job_id": 309,
+    "title": "Penetration Testing Intern",
+    "company": "CRED",
+    "location": "Mumbai, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "security operations",
+      "nmap",
+      "ethical hacking",
+      "owasp"
+    ]
+  },
+  {
+    "job_id": 310,
+    "title": "Ethical Hacking Intern",
+    "company": "Google India",
+    "location": "Gurgaon, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "burp suite",
+      "nmap",
+      "vulnerability assessment"
+    ]
+  },
+  {
+    "job_id": 311,
+    "title": "Penetration Testing Intern",
+    "company": "Loginext",
+    "location": "Pune, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "firewall",
+      "ethical hacking",
+      "metasploit",
+      "cryptography"
+    ]
+  },
+  {
+    "job_id": 312,
+    "title": "Security Analyst Intern",
+    "company": "PharmEasy",
+    "location": "Ahmedabad, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "ethical hacking",
+      "python",
+      "kali linux"
+    ]
+  },
+  {
+    "job_id": 313,
+    "title": "Ethical Hacking Intern",
+    "company": "Ola",
+    "location": "Indore, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "nmap",
+      "python",
+      "metasploit",
+      "siem"
+    ]
+  },
+  {
+    "job_id": 314,
+    "title": "SOC Analyst Intern",
+    "company": "Ola",
+    "location": "Bangalore, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "network security",
+      "security operations",
+      "linux",
+      "vulnerability assessment"
+    ]
+  },
+  {
+    "job_id": 315,
+    "title": "Malware Analyst Intern",
+    "company": "slice",
+    "location": "Noida, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "owasp",
+      "metasploit",
+      "linux"
+    ]
+  },
+  {
+    "job_id": 316,
+    "title": "Penetration Testing Intern",
+    "company": "Zerodha",
+    "location": "Chennai, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "metasploit",
+      "wireshark",
+      "siem"
+    ]
+  },
+  {
+    "job_id": 317,
+    "title": "Ethical Hacking Intern",
+    "company": "Microsoft India",
+    "location": "Jaipur, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "firewall",
+      "kali linux",
+      "penetration testing",
+      "owasp"
+    ]
+  },
+  {
+    "job_id": 318,
+    "title": "Application Security Intern",
+    "company": "Adobe India",
+    "location": "Gurgaon, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "penetration testing",
+      "cryptography",
+      "security operations",
+      "ethical hacking"
+    ]
+  },
+  {
+    "job_id": 319,
+    "title": "Ethical Hacking Intern",
+    "company": "Infosys",
+    "location": "Noida, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "vulnerability assessment",
+      "cybersecurity",
+      "linux",
+      "kali linux"
+    ]
+  },
+  {
+    "job_id": 320,
+    "title": "Penetration Testing Intern",
+    "company": "Qualcomm India",
+    "location": "Chandigarh, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "security operations",
+      "firewall",
+      "nmap",
+      "siem"
+    ]
+  },
+  {
+    "job_id": 321,
+    "title": "Threat Intelligence Intern",
+    "company": "Microsoft India",
+    "location": "Pune, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "siem",
+      "vulnerability assessment",
+      "cybersecurity",
+      "security operations",
+      "ethical hacking"
+    ]
+  },
+  {
+    "job_id": 322,
+    "title": "Incident Response Intern",
+    "company": "Josh Talks",
+    "location": "Delhi, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "owasp",
+      "firewall",
+      "siem",
+      "ethical hacking"
+    ]
+  },
+  {
+    "job_id": 323,
+    "title": "SOC Analyst Intern",
+    "company": "Nykaa",
+    "location": "Ahmedabad, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "vulnerability assessment",
+      "linux",
+      "owasp"
+    ]
+  },
+  {
+    "job_id": 324,
+    "title": "Ethical Hacking Intern",
+    "company": "Accenture",
+    "location": "Jaipur, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "siem",
+      "burp suite",
+      "owasp",
+      "wireshark",
+      "vulnerability assessment"
+    ]
+  },
+  {
+    "job_id": 325,
+    "title": "Malware Analyst Intern",
+    "company": "Netmeds",
+    "location": "Indore, India",
+    "domain": "Cybersecurity",
+    "skills": [
+      "vulnerability assessment",
+      "penetration testing",
+      "wireshark"
+    ]
+  },
+  {
+    "job_id": 326,
+    "title": "Brand Designer Intern",
+    "company": "slice",
+    "location": "Jaipur, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "ux design",
+      "zeplin",
+      "adobe illustrator",
+      "ui design"
+    ]
+  },
+  {
+    "job_id": 327,
+    "title": "UI/UX Designer Intern",
+    "company": "Kissht",
+    "location": "Coimbatore, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "user research",
+      "adobe illustrator",
+      "sketch",
+      "ux design",
+      "after effects"
+    ]
+  },
+  {
+    "job_id": 328,
+    "title": "Figma Designer Intern",
+    "company": "Fi Money",
+    "location": "Noida, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "user research",
+      "interaction design",
+      "adobe illustrator"
+    ]
+  },
+  {
+    "job_id": 329,
+    "title": "Brand Designer Intern",
+    "company": "Meesho",
+    "location": "Coimbatore, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "zeplin",
+      "after effects",
+      "figma",
+      "design thinking",
+      "ux design"
+    ]
+  },
+  {
+    "job_id": 330,
+    "title": "Design Systems Intern",
+    "company": "Salesforce India",
+    "location": "Noida, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "ui design",
+      "sketch",
+      "design thinking",
+      "photoshop",
+      "wireframing"
+    ]
+  },
+  {
+    "job_id": 331,
+    "title": "UI/UX Designer Intern",
+    "company": "Samsung India",
+    "location": "Pune, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "user research",
+      "adobe illustrator",
+      "ui design"
+    ]
+  },
+  {
+    "job_id": 332,
+    "title": "UI/UX Designer Intern",
+    "company": "Adobe India",
+    "location": "Chennai, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "ux design",
+      "sketch",
+      "figma",
+      "ui design",
+      "design thinking"
+    ]
+  },
+  {
+    "job_id": 333,
+    "title": "UI/UX Designer Intern",
+    "company": "InMobi",
+    "location": "Kolkata, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "wireframing",
+      "after effects",
+      "photoshop"
+    ]
+  },
+  {
+    "job_id": 334,
+    "title": "Motion Designer Intern",
+    "company": "Nykaa",
+    "location": "Coimbatore, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "zeplin",
+      "principle",
+      "user research",
+      "invision"
+    ]
+  },
+  {
+    "job_id": 335,
+    "title": "Product Designer Intern",
+    "company": "Docprime",
+    "location": "Remote, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "wireframing",
+      "photoshop",
+      "principle",
+      "adobe xd",
+      "ui design"
+    ]
+  },
+  {
+    "job_id": 336,
+    "title": "UX Research Intern",
+    "company": "KreditBee",
+    "location": "Kolkata, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "wireframing",
+      "interaction design",
+      "prototyping",
+      "figma",
+      "after effects"
+    ]
+  },
+  {
+    "job_id": 337,
+    "title": "Visual Designer Intern",
+    "company": "Capgemini",
+    "location": "Remote, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "principle",
+      "sketch",
+      "user research",
+      "prototyping",
+      "after effects"
+    ]
+  },
+  {
+    "job_id": 338,
+    "title": "Brand Designer Intern",
+    "company": "Rapido",
+    "location": "Delhi, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "user research",
+      "zeplin",
+      "interaction design",
+      "after effects"
+    ]
+  },
+  {
+    "job_id": 339,
+    "title": "Product Designer Intern",
+    "company": "Ola",
+    "location": "Chandigarh, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "principle",
+      "adobe illustrator",
+      "after effects",
+      "figma",
+      "prototyping"
+    ]
+  },
+  {
+    "job_id": 340,
+    "title": "Interaction Designer Intern",
+    "company": "Paytm",
+    "location": "Mumbai, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "ui design",
+      "design thinking",
+      "adobe illustrator",
+      "photoshop",
+      "interaction design"
+    ]
+  },
+  {
+    "job_id": 341,
+    "title": "UI/UX Designer Intern",
+    "company": "BYJU'S",
+    "location": "Jaipur, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "after effects",
+      "design thinking",
+      "prototyping"
+    ]
+  },
+  {
+    "job_id": 342,
+    "title": "Design Systems Intern",
+    "company": "Chargebee",
+    "location": "Chandigarh, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "wireframing",
+      "sketch",
+      "invision"
+    ]
+  },
+  {
+    "job_id": 343,
+    "title": "Interaction Designer Intern",
+    "company": "Elasticrun",
+    "location": "Ahmedabad, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "photoshop",
+      "prototyping",
+      "wireframing",
+      "ux design"
+    ]
+  },
+  {
+    "job_id": 344,
+    "title": "Design Systems Intern",
+    "company": "Hasura",
+    "location": "Kolkata, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "sketch",
+      "figma",
+      "invision",
+      "adobe illustrator"
+    ]
+  },
+  {
+    "job_id": 345,
+    "title": "UX Research Intern",
+    "company": "BigHaat",
+    "location": "Remote, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "invision",
+      "figma",
+      "adobe xd",
+      "photoshop"
+    ]
+  },
+  {
+    "job_id": 346,
+    "title": "Motion Designer Intern",
+    "company": "slice",
+    "location": "Chennai, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "principle",
+      "user research",
+      "ux design",
+      "wireframing",
+      "zeplin"
+    ]
+  },
+  {
+    "job_id": 347,
+    "title": "UX Research Intern",
+    "company": "Loginext",
+    "location": "Gurgaon, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "design thinking",
+      "principle",
+      "prototyping",
+      "wireframing"
+    ]
+  },
+  {
+    "job_id": 348,
+    "title": "UX Research Intern",
+    "company": "Capgemini",
+    "location": "Coimbatore, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "principle",
+      "user research",
+      "sketch"
+    ]
+  },
+  {
+    "job_id": 349,
+    "title": "Design Systems Intern",
+    "company": "Infosys",
+    "location": "Kolkata, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "sketch",
+      "prototyping",
+      "adobe xd"
+    ]
+  },
+  {
+    "job_id": 350,
+    "title": "Product Designer Intern",
+    "company": "Qualcomm India",
+    "location": "Indore, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "ux design",
+      "sketch",
+      "interaction design",
+      "prototyping"
+    ]
+  },
+  {
+    "job_id": 351,
+    "title": "UI/UX Designer Intern",
+    "company": "Scaler",
+    "location": "Kolkata, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "ui design",
+      "principle",
+      "invision",
+      "prototyping",
+      "adobe illustrator"
+    ]
+  },
+  {
+    "job_id": 352,
+    "title": "Design Systems Intern",
+    "company": "Chargebee",
+    "location": "Noida, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "photoshop",
+      "wireframing",
+      "figma"
+    ]
+  },
+  {
+    "job_id": 353,
+    "title": "Interaction Designer Intern",
+    "company": "Postman",
+    "location": "Jaipur, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "invision",
+      "zeplin",
+      "prototyping"
+    ]
+  },
+  {
+    "job_id": 354,
+    "title": "User Research Intern",
+    "company": "Fractal Analytics",
+    "location": "Hyderabad, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "design thinking",
+      "sketch",
+      "adobe xd",
+      "after effects"
+    ]
+  },
+  {
+    "job_id": 355,
+    "title": "Visual Designer Intern",
+    "company": "Mamaearth",
+    "location": "Noida, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "interaction design",
+      "wireframing",
+      "zeplin",
+      "adobe xd",
+      "sketch"
+    ]
+  },
+  {
+    "job_id": 356,
+    "title": "Brand Designer Intern",
+    "company": "Capgemini",
+    "location": "Mumbai, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "invision",
+      "after effects",
+      "principle",
+      "adobe xd",
+      "prototyping"
+    ]
+  },
+  {
+    "job_id": 357,
+    "title": "Figma Designer Intern",
+    "company": "Shiprocket",
+    "location": "Kolkata, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "design thinking",
+      "interaction design",
+      "ux design"
+    ]
+  },
+  {
+    "job_id": 358,
+    "title": "UI/UX Designer Intern",
+    "company": "upGrad",
+    "location": "Gurgaon, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "principle",
+      "wireframing",
+      "ux design",
+      "prototyping",
+      "adobe xd"
+    ]
+  },
+  {
+    "job_id": 359,
+    "title": "Interaction Designer Intern",
+    "company": "Mamaearth",
+    "location": "Ahmedabad, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "invision",
+      "sketch",
+      "photoshop"
+    ]
+  },
+  {
+    "job_id": 360,
+    "title": "Figma Designer Intern",
+    "company": "Vedantu",
+    "location": "Chandigarh, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "invision",
+      "design thinking",
+      "ux design",
+      "interaction design"
+    ]
+  },
+  {
+    "job_id": 361,
+    "title": "Figma Designer Intern",
+    "company": "Tech Mahindra",
+    "location": "Delhi, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "invision",
+      "ux design",
+      "sketch",
+      "photoshop",
+      "figma"
+    ]
+  },
+  {
+    "job_id": 362,
+    "title": "Design Systems Intern",
+    "company": "Ola",
+    "location": "Indore, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "ui design",
+      "after effects",
+      "figma"
+    ]
+  },
+  {
+    "job_id": 363,
+    "title": "Motion Designer Intern",
+    "company": "Infosys",
+    "location": "Indore, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "design thinking",
+      "ui design",
+      "interaction design",
+      "ux design",
+      "figma"
+    ]
+  },
+  {
+    "job_id": 364,
+    "title": "Interaction Designer Intern",
+    "company": "Niyo",
+    "location": "Noida, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "ui design",
+      "adobe illustrator",
+      "photoshop",
+      "principle"
+    ]
+  },
+  {
+    "job_id": 365,
+    "title": "User Research Intern",
+    "company": "Mindtree",
+    "location": "Remote, India",
+    "domain": "UI/UX Design",
+    "skills": [
+      "figma",
+      "invision",
+      "sketch",
+      "principle"
+    ]
+  },
+  {
+    "job_id": 366,
+    "title": "Spring Boot Intern",
+    "company": "Microsoft India",
+    "location": "Bangalore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "python",
+      "kafka"
+    ]
+  },
+  {
+    "job_id": 367,
+    "title": "Database Intern",
+    "company": "MFine",
+    "location": "Kolkata, India",
+    "domain": "Backend Development",
+    "skills": [
+      "rust",
+      "elasticsearch",
+      "kafka"
+    ]
+  },
+  {
+    "job_id": 368,
+    "title": "Java Developer Intern",
+    "company": "Unacademy",
+    "location": "Hyderabad, India",
+    "domain": "Backend Development",
+    "skills": [
+      "kafka",
+      "mysql",
+      "rest api",
+      "graphql",
+      "microservices"
+    ]
+  },
+  {
+    "job_id": 369,
+    "title": "API Developer Intern",
+    "company": "Nykaa",
+    "location": "Kolkata, India",
+    "domain": "Backend Development",
+    "skills": [
+      "grpc",
+      "postgresql",
+      "graphql",
+      "redis"
+    ]
+  },
+  {
+    "job_id": 370,
+    "title": "System Design Intern",
+    "company": "Swiggy",
+    "location": "Remote, India",
+    "domain": "Backend Development",
+    "skills": [
+      "java",
+      "go",
+      "microservices",
+      "grpc",
+      "rabbitmq"
+    ]
+  },
+  {
+    "job_id": 371,
+    "title": "Ruby on Rails Intern",
+    "company": "Cognizant",
+    "location": "Bangalore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "python",
+      "fastapi",
+      "go",
+      "linux",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 372,
+    "title": "System Design Intern",
+    "company": "BlackBuck",
+    "location": "Ahmedabad, India",
+    "domain": "Backend Development",
+    "skills": [
+      "kafka",
+      "java",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 373,
+    "title": "Python Backend Intern",
+    "company": "Vedic Gradients",
+    "location": "Coimbatore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "linux",
+      "mysql",
+      "java",
+      "go",
+      "graphql"
+    ]
+  },
+  {
+    "job_id": 374,
+    "title": "Ruby on Rails Intern",
+    "company": "Ather Energy",
+    "location": "Remote, India",
+    "domain": "Backend Development",
+    "skills": [
+      "fastapi",
+      "mongodb",
+      "python"
+    ]
+  },
+  {
+    "job_id": 375,
+    "title": "Python Backend Intern",
+    "company": "Yulu",
+    "location": "Delhi, India",
+    "domain": "Backend Development",
+    "skills": [
+      "microservices",
+      "go",
+      "redis",
+      "fastapi",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 376,
+    "title": "Scala Developer Intern",
+    "company": "boAt",
+    "location": "Remote, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mongodb",
+      "microservices",
+      "spring boot",
+      "go",
+      "kafka"
+    ]
+  },
+  {
+    "job_id": 377,
+    "title": "Database Intern",
+    "company": "Rapido",
+    "location": "Bangalore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "docker",
+      "postgresql",
+      "go"
+    ]
+  },
+  {
+    "job_id": 378,
+    "title": "Go Developer Intern",
+    "company": "Ninjacart",
+    "location": "Chandigarh, India",
+    "domain": "Backend Development",
+    "skills": [
+      "graphql",
+      "microservices",
+      "mongodb",
+      "python",
+      "mysql"
+    ]
+  },
+  {
+    "job_id": 379,
+    "title": "FastAPI Developer Intern",
+    "company": "Mphasis",
+    "location": "Hyderabad, India",
+    "domain": "Backend Development",
+    "skills": [
+      "rabbitmq",
+      "microservices",
+      "docker",
+      "fastapi"
+    ]
+  },
+  {
+    "job_id": 380,
+    "title": "System Design Intern",
+    "company": "Bounce",
+    "location": "Remote, India",
+    "domain": "Backend Development",
+    "skills": [
+      "go",
+      "graphql",
+      "redis",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 381,
+    "title": "Database Intern",
+    "company": "PhonePe",
+    "location": "Mumbai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "spring boot",
+      "microservices",
+      "elasticsearch",
+      "graphql"
+    ]
+  },
+  {
+    "job_id": 382,
+    "title": "Go Developer Intern",
+    "company": "Lenskart",
+    "location": "Mumbai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "python",
+      "redis",
+      "git"
+    ]
+  },
+  {
+    "job_id": 383,
+    "title": "Go Developer Intern",
+    "company": "Scaler",
+    "location": "Mumbai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "go",
+      "fastapi",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 384,
+    "title": "FastAPI Developer Intern",
+    "company": "EarlySalary",
+    "location": "Gurgaon, India",
+    "domain": "Backend Development",
+    "skills": [
+      "docker",
+      "rust",
+      "python",
+      "go",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 385,
+    "title": "Ruby on Rails Intern",
+    "company": "Meesho",
+    "location": "Ahmedabad, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mongodb",
+      "microservices",
+      "python",
+      "redis",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 386,
+    "title": "Spring Boot Intern",
+    "company": "Swiggy",
+    "location": "Jaipur, India",
+    "domain": "Backend Development",
+    "skills": [
+      "postgresql",
+      "grpc",
+      "kafka",
+      "fastapi",
+      "microservices"
+    ]
+  },
+  {
+    "job_id": 387,
+    "title": "Java Developer Intern",
+    "company": "Infosys",
+    "location": "Pune, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mysql",
+      "linux",
+      "spring boot",
+      "go"
+    ]
+  },
+  {
+    "job_id": 388,
+    "title": "Java Developer Intern",
+    "company": "Nvidia India",
+    "location": "Pune, India",
+    "domain": "Backend Development",
+    "skills": [
+      "redis",
+      "linux",
+      "go",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 389,
+    "title": "Microservices Intern",
+    "company": "BYJU'S",
+    "location": "Jaipur, India",
+    "domain": "Backend Development",
+    "skills": [
+      "linux",
+      "graphql",
+      "django",
+      "git",
+      "rust"
+    ]
+  },
+  {
+    "job_id": 390,
+    "title": "Java Developer Intern",
+    "company": "Dailyhunt",
+    "location": "Bangalore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mongodb",
+      "graphql",
+      "microservices",
+      "elasticsearch"
+    ]
+  },
+  {
+    "job_id": 391,
+    "title": "FastAPI Developer Intern",
+    "company": "BlackBuck",
+    "location": "Kolkata, India",
+    "domain": "Backend Development",
+    "skills": [
+      "graphql",
+      "spring boot",
+      "redis",
+      "mongodb",
+      "django"
+    ]
+  },
+  {
+    "job_id": 392,
+    "title": "FastAPI Developer Intern",
+    "company": "Shiprocket",
+    "location": "Delhi, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mongodb",
+      "redis",
+      "linux",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 393,
+    "title": "Go Developer Intern",
+    "company": "Mamaearth",
+    "location": "Pune, India",
+    "domain": "Backend Development",
+    "skills": [
+      "rest api",
+      "rust",
+      "grpc",
+      "django"
+    ]
+  },
+  {
+    "job_id": 394,
+    "title": "Scala Developer Intern",
+    "company": "MoneyTap",
+    "location": "Delhi, India",
+    "domain": "Backend Development",
+    "skills": [
+      "rabbitmq",
+      "python",
+      "git",
+      "django",
+      "grpc"
+    ]
+  },
+  {
+    "job_id": 395,
+    "title": "Microservices Intern",
+    "company": "Vedic Gradients",
+    "location": "Mumbai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "linux",
+      "spring boot",
+      "redis",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 396,
+    "title": "Microservices Intern",
+    "company": "1mg",
+    "location": "Delhi, India",
+    "domain": "Backend Development",
+    "skills": [
+      "docker",
+      "microservices",
+      "go",
+      "git",
+      "linux"
+    ]
+  },
+  {
+    "job_id": 397,
+    "title": "Scala Developer Intern",
+    "company": "IBM India",
+    "location": "Gurgaon, India",
+    "domain": "Backend Development",
+    "skills": [
+      "docker",
+      "rabbitmq",
+      "java",
+      "rest api",
+      "go"
+    ]
+  },
+  {
+    "job_id": 398,
+    "title": "API Developer Intern",
+    "company": "BYJU'S",
+    "location": "Remote, India",
+    "domain": "Backend Development",
+    "skills": [
+      "rest api",
+      "fastapi",
+      "java",
+      "microservices",
+      "mongodb"
+    ]
+  },
+  {
+    "job_id": 399,
+    "title": "Spring Boot Intern",
+    "company": "Groww",
+    "location": "Bangalore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mysql",
+      "postgresql",
+      "kafka"
+    ]
+  },
+  {
+    "job_id": 400,
+    "title": "Database Intern",
+    "company": "Fi Money",
+    "location": "Gurgaon, India",
+    "domain": "Backend Development",
+    "skills": [
+      "grpc",
+      "postgresql",
+      "git",
+      "rest api",
+      "microservices"
+    ]
+  },
+  {
+    "job_id": 401,
+    "title": "FastAPI Developer Intern",
+    "company": "MFine",
+    "location": "Ahmedabad, India",
+    "domain": "Backend Development",
+    "skills": [
+      "kafka",
+      "spring boot",
+      "rest api",
+      "python",
+      "linux"
+    ]
+  },
+  {
+    "job_id": 402,
+    "title": "API Developer Intern",
+    "company": "ShareChat",
+    "location": "Kolkata, India",
+    "domain": "Backend Development",
+    "skills": [
+      "rust",
+      "spring boot",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 403,
+    "title": "Microservices Intern",
+    "company": "Porter",
+    "location": "Noida, India",
+    "domain": "Backend Development",
+    "skills": [
+      "kafka",
+      "linux",
+      "rest api"
+    ]
+  },
+  {
+    "job_id": 404,
+    "title": "FastAPI Developer Intern",
+    "company": "Zepto",
+    "location": "Noida, India",
+    "domain": "Backend Development",
+    "skills": [
+      "git",
+      "mongodb",
+      "go",
+      "redis",
+      "java"
+    ]
+  },
+  {
+    "job_id": 405,
+    "title": "Database Intern",
+    "company": "Zerodha",
+    "location": "Bangalore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "elasticsearch",
+      "rust",
+      "fastapi",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 406,
+    "title": "Ruby on Rails Intern",
+    "company": "Persistent Systems",
+    "location": "Gurgaon, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mongodb",
+      "rabbitmq",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 407,
+    "title": "FastAPI Developer Intern",
+    "company": "Setu",
+    "location": "Chandigarh, India",
+    "domain": "Backend Development",
+    "skills": [
+      "elasticsearch",
+      "fastapi",
+      "graphql",
+      "docker"
+    ]
+  },
+  {
+    "job_id": 408,
+    "title": "Spring Boot Intern",
+    "company": "Flipkart",
+    "location": "Jaipur, India",
+    "domain": "Backend Development",
+    "skills": [
+      "django",
+      "git",
+      "grpc",
+      "docker",
+      "microservices"
+    ]
+  },
+  {
+    "job_id": 409,
+    "title": "Backend Developer Intern",
+    "company": "Fractal Analytics",
+    "location": "Hyderabad, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mysql",
+      "go",
+      "grpc"
+    ]
+  },
+  {
+    "job_id": 410,
+    "title": "API Developer Intern",
+    "company": "KreditBee",
+    "location": "Delhi, India",
+    "domain": "Backend Development",
+    "skills": [
+      "mongodb",
+      "django",
+      "git",
+      "rust"
+    ]
+  },
+  {
+    "job_id": 411,
+    "title": "Microservices Intern",
+    "company": "Netmeds",
+    "location": "Indore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "kafka",
+      "mongodb",
+      "microservices",
+      "grpc"
+    ]
+  },
+  {
+    "job_id": 412,
+    "title": "Scala Developer Intern",
+    "company": "Zerodha",
+    "location": "Chennai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "git",
+      "graphql",
+      "fastapi",
+      "redis"
+    ]
+  },
+  {
+    "job_id": 413,
+    "title": "Scala Developer Intern",
+    "company": "Yulu",
+    "location": "Mumbai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "spring boot",
+      "mongodb",
+      "rust",
+      "postgresql",
+      "redis"
+    ]
+  },
+  {
+    "job_id": 414,
+    "title": "API Developer Intern",
+    "company": "Mphasis",
+    "location": "Chennai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "spring boot",
+      "kafka",
+      "microservices",
+      "docker",
+      "elasticsearch"
+    ]
+  },
+  {
+    "job_id": 415,
+    "title": "Scala Developer Intern",
+    "company": "boAt",
+    "location": "Kolkata, India",
+    "domain": "Backend Development",
+    "skills": [
+      "linux",
+      "rabbitmq",
+      "fastapi"
+    ]
+  },
+  {
+    "job_id": 416,
+    "title": "Ruby on Rails Intern",
+    "company": "Tech Mahindra",
+    "location": "Noida, India",
+    "domain": "Backend Development",
+    "skills": [
+      "spring boot",
+      "fastapi",
+      "mongodb",
+      "git"
+    ]
+  },
+  {
+    "job_id": 417,
+    "title": "Scala Developer Intern",
+    "company": "CRED",
+    "location": "Indore, India",
+    "domain": "Backend Development",
+    "skills": [
+      "python",
+      "linux",
+      "spring boot",
+      "django"
+    ]
+  },
+  {
+    "job_id": 418,
+    "title": "Spring Boot Intern",
+    "company": "EarlySalary",
+    "location": "Gurgaon, India",
+    "domain": "Backend Development",
+    "skills": [
+      "linux",
+      "docker",
+      "elasticsearch",
+      "graphql",
+      "git"
+    ]
+  },
+  {
+    "job_id": 419,
+    "title": "FastAPI Developer Intern",
+    "company": "Tech Mahindra",
+    "location": "Mumbai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "python",
+      "postgresql",
+      "redis",
+      "java",
+      "mysql"
+    ]
+  },
+  {
+    "job_id": 420,
+    "title": "Python Backend Intern",
+    "company": "KreditBee",
+    "location": "Pune, India",
+    "domain": "Backend Development",
+    "skills": [
+      "git",
+      "grpc",
+      "linux"
+    ]
+  },
+  {
+    "job_id": 421,
+    "title": "Ruby on Rails Intern",
+    "company": "Jupiter",
+    "location": "Mumbai, India",
+    "domain": "Backend Development",
+    "skills": [
+      "rust",
+      "mysql",
+      "rabbitmq",
+      "rest api",
+      "java"
+    ]
+  },
+  {
+    "job_id": 422,
+    "title": "Database Intern",
+    "company": "Intel India",
+    "location": "Gurgaon, India",
+    "domain": "Backend Development",
+    "skills": [
+      "docker",
+      "rust",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": 423,
+    "title": "Microservices Intern",
+    "company": "Ola",
+    "location": "Noida, India",
+    "domain": "Backend Development",
+    "skills": [
+      "rest api",
+      "go",
+      "git",
+      "rust"
+    ]
+  },
+  {
+    "job_id": 424,
+    "title": "Python Backend Intern",
+    "company": "Druva",
+    "location": "Chandigarh, India",
+    "domain": "Backend Development",
+    "skills": [
+      "grpc",
+      "rest api",
+      "docker",
+      "fastapi",
+      "spring boot"
+    ]
+  },
+  {
+    "job_id": 425,
+    "title": "Python Backend Intern",
+    "company": "Druva",
+    "location": "Chandigarh, India",
+    "domain": "Backend Development",
+    "skills": [
+      "grpc",
+      "rest api",
+      "rabbitmq"
+    ]
+  },
+  {
+    "job_id": 426,
+    "title": "AR/VR Developer Intern",
+    "company": "Vogo",
+    "location": "Gurgaon, India",
+    "domain": "Game Development",
+    "skills": [
+      "game design",
+      "physics simulation",
+      "game development"
+    ]
+  },
+  {
+    "job_id": 427,
+    "title": "AR/VR Developer Intern",
+    "company": "Ola Electric",
+    "location": "Pune, India",
+    "domain": "Game Development",
+    "skills": [
+      "c++",
+      "c#",
+      "shader programming",
+      "webgl",
+      "blender"
+    ]
+  },
+  {
+    "job_id": 428,
+    "title": "Game Developer Intern",
+    "company": "Springboard",
+    "location": "Indore, India",
+    "domain": "Game Development",
+    "skills": [
+      "game development",
+      "physics simulation",
+      "webgl",
+      "c#",
+      "c++"
+    ]
+  },
+  {
+    "job_id": 429,
+    "title": "Unreal Engine Intern",
+    "company": "Mu Sigma",
+    "location": "Chennai, India",
+    "domain": "Game Development",
+    "skills": [
+      "shader programming",
+      "ar",
+      "c#"
+    ]
+  },
+  {
+    "job_id": 430,
+    "title": "AR/VR Developer Intern",
+    "company": "BigHaat",
+    "location": "Kolkata, India",
+    "domain": "Game Development",
+    "skills": [
+      "three.js",
+      "unreal engine",
+      "game design",
+      "shader programming"
+    ]
+  },
+  {
+    "job_id": 431,
+    "title": "Unity Developer Intern",
+    "company": "IBM India",
+    "location": "Gurgaon, India",
+    "domain": "Game Development",
+    "skills": [
+      "vr",
+      "physics simulation",
+      "3d modeling",
+      "ar",
+      "shader programming"
+    ]
+  },
+  {
+    "job_id": 432,
+    "title": "Game Physics Intern",
+    "company": "Bounce",
+    "location": "Bangalore, India",
+    "domain": "Game Development",
+    "skills": [
+      "c#",
+      "physics simulation",
+      "ar",
+      "game design",
+      "shader programming"
+    ]
+  },
+  {
+    "job_id": 433,
+    "title": "Game Physics Intern",
+    "company": "Paytm",
+    "location": "Chandigarh, India",
+    "domain": "Game Development",
+    "skills": [
+      "shader programming",
+      "c++",
+      "blender",
+      "three.js",
+      "ar"
+    ]
+  },
+  {
+    "job_id": 434,
+    "title": "AR/VR Developer Intern",
+    "company": "Delhivery",
+    "location": "Indore, India",
+    "domain": "Game Development",
+    "skills": [
+      "game design",
+      "vr",
+      "opengl",
+      "c#"
+    ]
+  },
+  {
+    "job_id": 435,
+    "title": "Gameplay Programmer Intern",
+    "company": "Porter",
+    "location": "Coimbatore, India",
+    "domain": "Game Development",
+    "skills": [
+      "unreal engine",
+      "unity",
+      "animation",
+      "game design",
+      "ar"
+    ]
+  },
+  {
+    "job_id": 436,
+    "title": "Game Developer Intern",
+    "company": "Freshworks",
+    "location": "Coimbatore, India",
+    "domain": "Game Development",
+    "skills": [
+      "three.js",
+      "ar",
+      "unity"
+    ]
+  },
+  {
+    "job_id": 437,
+    "title": "Game UI Developer Intern",
+    "company": "BrowserStack",
+    "location": "Jaipur, India",
+    "domain": "Game Development",
+    "skills": [
+      "opengl",
+      "c#",
+      "webgl"
+    ]
+  },
+  {
+    "job_id": 438,
+    "title": "AR/VR Developer Intern",
+    "company": "Meesho",
+    "location": "Remote, India",
+    "domain": "Game Development",
+    "skills": [
+      "vr",
+      "unreal engine",
+      "3d modeling",
+      "game design"
+    ]
+  },
+  {
+    "job_id": 439,
+    "title": "Unreal Engine Intern",
+    "company": "CRED",
+    "location": "Kolkata, India",
+    "domain": "Game Development",
+    "skills": [
+      "opengl",
+      "physics simulation",
+      "three.js",
+      "shader programming",
+      "c++"
+    ]
+  },
+  {
+    "job_id": 440,
+    "title": "Game UI Developer Intern",
+    "company": "PharmEasy",
+    "location": "Mumbai, India",
+    "domain": "Game Development",
+    "skills": [
+      "c++",
+      "unity",
+      "animation",
+      "ar",
+      "unreal engine"
+    ]
+  },
+  {
+    "job_id": 441,
+    "title": "Unreal Engine Intern",
+    "company": "Yulu",
+    "location": "Hyderabad, India",
+    "domain": "Game Development",
+    "skills": [
+      "three.js",
+      "unity",
+      "animation",
+      "physics simulation",
+      "3d modeling"
+    ]
+  },
+  {
+    "job_id": 442,
+    "title": "Unity Developer Intern",
+    "company": "Adobe India",
+    "location": "Jaipur, India",
+    "domain": "Game Development",
+    "skills": [
+      "animation",
+      "unreal engine",
+      "c++"
+    ]
+  },
+  {
+    "job_id": 443,
+    "title": "Game UI Developer Intern",
+    "company": "Meesho",
+    "location": "Jaipur, India",
+    "domain": "Game Development",
+    "skills": [
+      "c++",
+      "3d modeling",
+      "three.js"
+    ]
+  },
+  {
+    "job_id": 444,
+    "title": "AR/VR Developer Intern",
+    "company": "Infosys",
+    "location": "Kolkata, India",
+    "domain": "Game Development",
+    "skills": [
+      "game development",
+      "unreal engine",
+      "vr"
+    ]
+  },
+  {
+    "job_id": 445,
+    "title": "Game Developer Intern",
+    "company": "DeHaat",
+    "location": "Remote, India",
+    "domain": "Game Development",
+    "skills": [
+      "three.js",
+      "3d modeling",
+      "physics simulation"
+    ]
+  },
+  {
+    "job_id": 446,
+    "title": "Game Designer Intern",
+    "company": "BigHaat",
+    "location": "Jaipur, India",
+    "domain": "Game Development",
+    "skills": [
+      "webgl",
+      "opengl",
+      "game design"
+    ]
+  },
+  {
+    "job_id": 447,
+    "title": "Gameplay Programmer Intern",
+    "company": "Chargebee",
+    "location": "Mumbai, India",
+    "domain": "Game Development",
+    "skills": [
+      "game development",
+      "shader programming",
+      "unreal engine"
+    ]
+  },
+  {
+    "job_id": 448,
+    "title": "Game UI Developer Intern",
+    "company": "Rapido",
+    "location": "Kolkata, India",
+    "domain": "Game Development",
+    "skills": [
+      "game development",
+      "c++",
+      "animation",
+      "game design"
+    ]
+  },
+  {
+    "job_id": 449,
+    "title": "Unity Developer Intern",
+    "company": "BYJU'S",
+    "location": "Gurgaon, India",
+    "domain": "Game Development",
+    "skills": [
+      "opengl",
+      "shader programming",
+      "physics simulation",
+      "unity",
+      "game design"
+    ]
+  },
+  {
+    "job_id": 450,
+    "title": "AR/VR Developer Intern",
+    "company": "Druva",
+    "location": "Gurgaon, India",
+    "domain": "Game Development",
+    "skills": [
+      "blender",
+      "physics simulation",
+      "animation",
+      "game development",
+      "game design"
+    ]
+  },
+  {
+    "job_id": 451,
+    "title": "Game Developer Intern",
+    "company": "Unacademy",
+    "location": "Noida, India",
+    "domain": "Game Development",
+    "skills": [
+      "c++",
+      "animation",
+      "ar",
+      "game design"
+    ]
+  },
+  {
+    "job_id": 452,
+    "title": "Unity Developer Intern",
+    "company": "slice",
+    "location": "Coimbatore, India",
+    "domain": "Game Development",
+    "skills": [
+      "physics simulation",
+      "three.js",
+      "3d modeling"
+    ]
+  },
+  {
+    "job_id": 453,
+    "title": "Unreal Engine Intern",
+    "company": "boAt",
+    "location": "Indore, India",
+    "domain": "Game Development",
+    "skills": [
+      "webgl",
+      "3d modeling",
+      "vr",
+      "game design",
+      "c#"
+    ]
+  },
+  {
+    "job_id": 454,
+    "title": "Gameplay Programmer Intern",
+    "company": "PhonePe",
+    "location": "Bangalore, India",
+    "domain": "Game Development",
+    "skills": [
+      "c#",
+      "unity",
+      "game development",
+      "c++",
+      "three.js"
+    ]
+  },
+  {
+    "job_id": 455,
+    "title": "Game Developer Intern",
+    "company": "Samsung India",
+    "location": "Gurgaon, India",
+    "domain": "Game Development",
+    "skills": [
+      "webgl",
+      "blender",
+      "physics simulation",
+      "three.js"
+    ]
+  },
+  {
+    "job_id": 456,
+    "title": "Unity Developer Intern",
+    "company": "FreshToHome",
+    "location": "Gurgaon, India",
+    "domain": "Game Development",
+    "skills": [
+      "game development",
+      "animation",
+      "unreal engine",
+      "three.js",
+      "webgl"
+    ]
+  },
+  {
+    "job_id": 457,
+    "title": "Game Designer Intern",
+    "company": "Wipro",
+    "location": "Gurgaon, India",
+    "domain": "Game Development",
+    "skills": [
+      "shader programming",
+      "opengl",
+      "game design",
+      "animation"
+    ]
+  },
+  {
+    "job_id": 458,
+    "title": "Unity Developer Intern",
+    "company": "Josh Talks",
+    "location": "Jaipur, India",
+    "domain": "Game Development",
+    "skills": [
+      "ar",
+      "unity",
+      "c++",
+      "unreal engine"
+    ]
+  },
+  {
+    "job_id": 459,
+    "title": "Game UI Developer Intern",
+    "company": "Zerodha",
+    "location": "Noida, India",
+    "domain": "Game Development",
+    "skills": [
+      "unreal engine",
+      "game development",
+      "game design",
+      "physics simulation",
+      "webgl"
+    ]
+  },
+  {
+    "job_id": 460,
+    "title": "Unreal Engine Intern",
+    "company": "Freshworks",
+    "location": "Bangalore, India",
+    "domain": "Game Development",
+    "skills": [
+      "game development",
+      "physics simulation",
+      "unity",
+      "c#",
+      "ar"
+    ]
+  },
+  {
+    "job_id": 461,
+    "title": "Crypto Backend Intern",
+    "company": "Fi Money",
+    "location": "Gurgaon, India",
+    "domain": "Blockchain",
+    "skills": [
+      "javascript",
+      "ethereum",
+      "defi",
+      "rust",
+      "hardhat"
+    ]
+  },
+  {
+    "job_id": 462,
+    "title": "DeFi Engineer Intern",
+    "company": "Elasticrun",
+    "location": "Coimbatore, India",
+    "domain": "Blockchain",
+    "skills": [
+      "blockchain",
+      "defi",
+      "metamask"
+    ]
+  },
+  {
+    "job_id": 463,
+    "title": "NFT Developer Intern",
+    "company": "Scaler",
+    "location": "Gurgaon, India",
+    "domain": "Blockchain",
+    "skills": [
+      "javascript",
+      "hardhat",
+      "python"
+    ]
+  },
+  {
+    "job_id": 464,
+    "title": "Smart Contract Intern",
+    "company": "Hexaware",
+    "location": "Noida, India",
+    "domain": "Blockchain",
+    "skills": [
+      "hardhat",
+      "blockchain",
+      "cryptography",
+      "python",
+      "ethereum"
+    ]
+  },
+  {
+    "job_id": 465,
+    "title": "Crypto Backend Intern",
+    "company": "HCL",
+    "location": "Pune, India",
+    "domain": "Blockchain",
+    "skills": [
+      "web3.js",
+      "polkadot",
+      "hardhat"
+    ]
+  },
+  {
+    "job_id": 466,
+    "title": "Blockchain Developer Intern",
+    "company": "Zomato",
+    "location": "Indore, India",
+    "domain": "Blockchain",
+    "skills": [
+      "cryptography",
+      "blockchain",
+      "polkadot"
+    ]
+  },
+  {
+    "job_id": 467,
+    "title": "Crypto Backend Intern",
+    "company": "boAt",
+    "location": "Coimbatore, India",
+    "domain": "Blockchain",
+    "skills": [
+      "defi",
+      "rust",
+      "ipfs"
+    ]
+  },
+  {
+    "job_id": 468,
+    "title": "Blockchain Developer Intern",
+    "company": "Kissht",
+    "location": "Chandigarh, India",
+    "domain": "Blockchain",
+    "skills": [
+      "ipfs",
+      "web3.js",
+      "defi",
+      "rust",
+      "nft"
+    ]
+  },
+  {
+    "job_id": 469,
+    "title": "Crypto Backend Intern",
+    "company": "Scaler",
+    "location": "Indore, India",
+    "domain": "Blockchain",
+    "skills": [
+      "hardhat",
+      "solidity",
+      "javascript"
+    ]
+  },
+  {
+    "job_id": 470,
+    "title": "Blockchain Developer Intern",
+    "company": "Persistent Systems",
+    "location": "Hyderabad, India",
+    "domain": "Blockchain",
+    "skills": [
+      "solidity",
+      "nft",
+      "polkadot",
+      "cryptography",
+      "smart contracts"
+    ]
+  },
+  {
+    "job_id": 471,
+    "title": "DeFi Engineer Intern",
+    "company": "Delhivery",
+    "location": "Mumbai, India",
+    "domain": "Blockchain",
+    "skills": [
+      "rust",
+      "blockchain",
+      "defi",
+      "web3.js",
+      "smart contracts"
+    ]
+  },
+  {
+    "job_id": 472,
+    "title": "DeFi Engineer Intern",
+    "company": "Rivigo",
+    "location": "Ahmedabad, India",
+    "domain": "Blockchain",
+    "skills": [
+      "rust",
+      "defi",
+      "python"
+    ]
+  },
+  {
+    "job_id": 473,
+    "title": "Blockchain Security Intern",
+    "company": "BrowserStack",
+    "location": "Jaipur, India",
+    "domain": "Blockchain",
+    "skills": [
+      "cryptography",
+      "ethereum",
+      "blockchain",
+      "nft",
+      "ipfs"
+    ]
+  },
+  {
+    "job_id": 474,
+    "title": "Solidity Developer Intern",
+    "company": "MoneyTap",
+    "location": "Chennai, India",
+    "domain": "Blockchain",
+    "skills": [
+      "blockchain",
+      "defi",
+      "polkadot",
+      "metamask",
+      "truffle"
+    ]
+  },
+  {
+    "job_id": 475,
+    "title": "NFT Developer Intern",
+    "company": "Rivigo",
+    "location": "Jaipur, India",
+    "domain": "Blockchain",
+    "skills": [
+      "web3.js",
+      "polkadot",
+      "javascript",
+      "rust"
+    ]
+  },
+  {
+    "job_id": 476,
+    "title": "NFT Developer Intern",
+    "company": "Mphasis",
+    "location": "Bangalore, India",
+    "domain": "Blockchain",
+    "skills": [
+      "javascript",
+      "solidity",
+      "blockchain"
+    ]
+  },
+  {
+    "job_id": 477,
+    "title": "Solidity Developer Intern",
+    "company": "Fi Money",
+    "location": "Kolkata, India",
+    "domain": "Blockchain",
+    "skills": [
+      "hardhat",
+      "cryptography",
+      "polkadot",
+      "solidity",
+      "python"
+    ]
+  },
+  {
+    "job_id": 478,
+    "title": "Smart Contract Intern",
+    "company": "Niyo",
+    "location": "Delhi, India",
+    "domain": "Blockchain",
+    "skills": [
+      "metamask",
+      "solidity",
+      "python",
+      "ipfs",
+      "blockchain"
+    ]
+  },
+  {
+    "job_id": 479,
+    "title": "NFT Developer Intern",
+    "company": "1mg",
+    "location": "Delhi, India",
+    "domain": "Blockchain",
+    "skills": [
+      "python",
+      "smart contracts",
+      "ipfs"
+    ]
+  },
+  {
+    "job_id": 480,
+    "title": "Crypto Backend Intern",
+    "company": "Samsung India",
+    "location": "Jaipur, India",
+    "domain": "Blockchain",
+    "skills": [
+      "truffle",
+      "defi",
+      "cryptography",
+      "smart contracts",
+      "web3.js"
+    ]
+  },
+  {
+    "job_id": 481,
+    "title": "Smart Contract Intern",
+    "company": "BrowserStack",
+    "location": "Delhi, India",
+    "domain": "Blockchain",
+    "skills": [
+      "web3.js",
+      "ethereum",
+      "solidity",
+      "rust",
+      "cryptography"
+    ]
+  },
+  {
+    "job_id": 482,
+    "title": "Blockchain Security Intern",
+    "company": "Shiprocket",
+    "location": "Kolkata, India",
+    "domain": "Blockchain",
+    "skills": [
+      "hardhat",
+      "metamask",
+      "web3.js"
+    ]
+  },
+  {
+    "job_id": 483,
+    "title": "Blockchain Security Intern",
+    "company": "Josh Talks",
+    "location": "Noida, India",
+    "domain": "Blockchain",
+    "skills": [
+      "web3.js",
+      "solidity",
+      "ethereum",
+      "metamask"
+    ]
+  },
+  {
+    "job_id": 484,
+    "title": "DeFi Engineer Intern",
+    "company": "Fractal Analytics",
+    "location": "Jaipur, India",
+    "domain": "Blockchain",
+    "skills": [
+      "solidity",
+      "web3.js",
+      "ipfs",
+      "defi",
+      "ethereum"
+    ]
+  },
+  {
+    "job_id": 485,
+    "title": "Smart Contract Intern",
+    "company": "Mu Sigma",
+    "location": "Hyderabad, India",
+    "domain": "Blockchain",
+    "skills": [
+      "metamask",
+      "javascript",
+      "blockchain",
+      "truffle"
+    ]
+  },
+  {
+    "job_id": 486,
+    "title": "DeFi Engineer Intern",
+    "company": "upGrad",
+    "location": "Indore, India",
+    "domain": "Blockchain",
+    "skills": [
+      "blockchain",
+      "nft",
+      "ipfs"
+    ]
+  },
+  {
+    "job_id": 487,
+    "title": "Blockchain Security Intern",
+    "company": "EarlySalary",
+    "location": "Jaipur, India",
+    "domain": "Blockchain",
+    "skills": [
+      "cryptography",
+      "solidity",
+      "polkadot",
+      "rust",
+      "ethereum"
+    ]
+  },
+  {
+    "job_id": 488,
+    "title": "Smart Contract Intern",
+    "company": "Microsoft India",
+    "location": "Bangalore, India",
+    "domain": "Blockchain",
+    "skills": [
+      "smart contracts",
+      "web3.js",
+      "ipfs"
+    ]
+  },
+  {
+    "job_id": 489,
+    "title": "NFT Developer Intern",
+    "company": "Nykaa",
+    "location": "Remote, India",
+    "domain": "Blockchain",
+    "skills": [
+      "ethereum",
+      "python",
+      "rust",
+      "smart contracts",
+      "solidity"
+    ]
+  },
+  {
+    "job_id": 490,
+    "title": "Blockchain Developer Intern",
+    "company": "Paytm",
+    "location": "Hyderabad, India",
+    "domain": "Blockchain",
+    "skills": [
+      "rust",
+      "metamask",
+      "ethereum",
+      "solidity",
+      "defi"
+    ]
+  },
+  {
+    "job_id": 491,
+    "title": "Smart Contract Intern",
+    "company": "Zomato",
+    "location": "Noida, India",
+    "domain": "Blockchain",
+    "skills": [
+      "defi",
+      "rust",
+      "python"
+    ]
+  },
+  {
+    "job_id": 492,
+    "title": "NFT Developer Intern",
+    "company": "Locus",
+    "location": "Kolkata, India",
+    "domain": "Blockchain",
+    "skills": [
+      "blockchain",
+      "nft",
+      "truffle",
+      "rust"
+    ]
+  },
+  {
+    "job_id": 493,
+    "title": "Web3 Developer Intern",
+    "company": "Urban Company",
+    "location": "Hyderabad, India",
+    "domain": "Blockchain",
+    "skills": [
+      "javascript",
+      "smart contracts",
+      "cryptography"
+    ]
+  },
+  {
+    "job_id": 494,
+    "title": "Web3 Developer Intern",
+    "company": "Ola",
+    "location": "Ahmedabad, India",
+    "domain": "Blockchain",
+    "skills": [
+      "cryptography",
+      "truffle",
+      "smart contracts",
+      "polkadot",
+      "nft"
+    ]
+  },
+  {
+    "job_id": 495,
+    "title": "Blockchain Security Intern",
+    "company": "Razorpay",
+    "location": "Mumbai, India",
+    "domain": "Blockchain",
+    "skills": [
+      "metamask",
+      "ethereum",
+      "nft",
+      "web3.js"
+    ]
+  },
+  {
+    "job_id": 496,
+    "title": "Solidity Developer Intern",
+    "company": "BigHaat",
+    "location": "Chandigarh, India",
+    "domain": "Blockchain",
+    "skills": [
+      "blockchain",
+      "nft",
+      "metamask",
+      "hardhat",
+      "defi"
+    ]
+  },
+  {
+    "job_id": 497,
+    "title": "Blockchain Security Intern",
+    "company": "MoneyTap",
+    "location": "Chandigarh, India",
+    "domain": "Blockchain",
+    "skills": [
+      "hardhat",
+      "rust",
+      "python",
+      "javascript"
+    ]
+  },
+  {
+    "job_id": 498,
+    "title": "Crypto Backend Intern",
+    "company": "boAt",
+    "location": "Pune, India",
+    "domain": "Blockchain",
+    "skills": [
+      "blockchain",
+      "defi",
+      "python"
+    ]
+  },
+  {
+    "job_id": 499,
+    "title": "Solidity Developer Intern",
+    "company": "Flipkart",
+    "location": "Coimbatore, India",
+    "domain": "Blockchain",
+    "skills": [
+      "solidity",
+      "metamask",
+      "cryptography",
+      "javascript"
+    ]
+  },
+  {
+    "job_id": 500,
+    "title": "Crypto Backend Intern",
+    "company": "Bounce",
+    "location": "Hyderabad, India",
+    "domain": "Blockchain",
+    "skills": [
+      "web3.js",
+      "polkadot",
+      "truffle"
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "AI Innovation Challenge",
+    "company": "Google India",
+    "location": "Bangalore",
+    "mode": "Online",
+    "prize": "₹1,00,000",
+    "deadline": "2026-05-10",
+    "description": "Build AI solutions for real-world problems. Focus on generative models, predictive analytics, and natural language processing.",
+    "domain": "AI/ML",
+    "registration_link": "https://example.com/register1"
+  },
+  {
+    "id": 2,
+    "title": "Web3 HackFest",
+    "company": "Polygon",
+    "location": "Mumbai",
+    "mode": "Hybrid",
+    "prize": "₹75,000",
+    "deadline": "2026-04-25",
+    "description": "Create decentralized apps using blockchain technology. Build on Polygon and explore the future of the decentralized web.",
+    "domain": "Blockchain",
+    "registration_link": "https://example.com/register2"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Hackathon",
+    "company": "Microsoft India",
+    "location": "Hyderabad",
+    "mode": "Offline",
+    "prize": "₹50,000",
+    "deadline": "2026-06-01",
+    "description": "Develop scalable full stack applications using modern web frameworks. Show off your frontend and backend skills.",
+    "domain": "Web Development",
+    "registration_link": "https://example.com/register3"
+  },
+  {
+    "id": 4,
+    "title": "Android Dev Sprint",
+    "company": "Google India",
+    "location": "Delhi",
+    "mode": "Online",
+    "prize": "₹40,000",
+    "deadline": "2026-05-15",
+    "description": "Build innovative Android applications that push the boundaries of mobile tech using Jetpack Compose and Kotlin.",
+    "domain": "Android Development",
+    "registration_link": "https://example.com/register4"
+  },
+  {
+    "id": 5,
+    "title": "Data Engineering Challenge",
+    "company": "Amazon India",
+    "location": "Bangalore",
+    "mode": "Hybrid",
+    "prize": "₹80,000",
+    "deadline": "2026-04-30",
+    "description": "Design robust data pipelines and architect big data solutions. Handle streaming data and efficient storage.",
+    "domain": "Data Engineering",
+    "registration_link": "https://example.com/register5"
+  },
+  {
+    "id": 6,
+    "title": "Cyber Shield Hackathon",
+    "company": "TCS",
+    "location": "Pune",
+    "mode": "Online",
+    "prize": "₹60,000",
+    "deadline": "2026-05-20",
+    "description": "Solve complex cybersecurity challenges. Defend against simulated attacks and identify critical vulnerabilities.",
+    "domain": "Cybersecurity",
+    "registration_link": "https://example.com/register6"
+  },
+  {
+    "id": 7,
+    "title": "UI/UX Design Jam",
+    "company": "Adobe India",
+    "location": "Remote",
+    "mode": "Online",
+    "prize": "₹30,000",
+    "deadline": "2026-04-18",
+    "description": "Design modern user experiences for future-forward digital products. Focus on accessibility and gorgeous aesthetics.",
+    "domain": "UI/UX Design",
+    "registration_link": "https://example.com/register7"
+  },
+  {
+    "id": 8,
+    "title": "Cloud Hack Challenge",
+    "company": "Infosys",
+    "location": "Chennai",
+    "mode": "Offline",
+    "prize": "₹70,000",
+    "deadline": "2026-05-25",
+    "description": "Build cloud-native applications and explore serverless computing on Azure, AWS, or GCP.",
+    "domain": "Cloud & DevOps",
+    "registration_link": "https://example.com/register8"
+  },
+  {
+    "id": 9,
+    "title": "Backend Battle",
+    "company": "Flipkart",
+    "location": "Bangalore",
+    "mode": "Hybrid",
+    "prize": "₹65,000",
+    "deadline": "2026-05-05",
+    "description": "Optimize high-performance backend systems. Focus on scalability, database efficiency, and secure APIs.",
+    "domain": "Backend Development",
+    "registration_link": "https://example.com/register9"
+  },
+  {
+    "id": 10,
+    "title": "Game Dev Clash",
+    "company": "Unity India",
+    "location": "Mumbai",
+    "mode": "Online",
+    "prize": "₹55,000",
+    "deadline": "2026-06-10",
+    "description": "Create engaging games using Unity or Unreal Engine. Build immersive worlds and fun mechanics.",
+    "domain": "Game Development",
+    "registration_link": "https://example.com/register10"
+  }
+]

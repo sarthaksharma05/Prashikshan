@@ -1,0 +1,101 @@
+id,name,email,phone,university,projects,cgpa,domain,github,linkedin,role
+stu1,Meera Iyer,meera.iyer1@example.com,9276625953,BITS Pilani,3,8.99,Android Development,https://github.com/user1,https://linkedin.com/in/user1,student
+stu2,Ananya Kapoor,ananya.kapoor2@example.com,8437880124,NIT Trichy,7,8.66,Web Development,https://github.com/user2,https://linkedin.com/in/user2,student
+stu3,Harsh Reddy,harsh.reddy3@example.com,8922381632,IIIT Hyderabad,7,9.33,Cloud & DevOps,https://github.com/user3,https://linkedin.com/in/user3,student
+stu4,Ishaan Joshi,ishaan.joshi4@example.com,8154026893,Lovely Professional University,9,7.51,Blockchain,https://github.com/user4,https://linkedin.com/in/user4,student
+stu5,Kartik Chawla,kartik.chawla5@example.com,7255036208,Lovely Professional University,8,9.2,Cybersecurity,https://github.com/user5,https://linkedin.com/in/user5,student
+stu6,Rahul Bose,rahul.bose6@example.com,7504910529,NIT Trichy,10,8.52,Data Engineering,https://github.com/user6,https://linkedin.com/in/user6,student
+stu7,Priya Singh,priya.singh7@example.com,7924840276,Lovely Professional University,12,8.01,Web Development,https://github.com/user7,https://linkedin.com/in/user7,student
+stu8,Tanvi Gupta,tanvi.gupta8@example.com,8715007440,IIT Delhi,7,8.0,Data Engineering,https://github.com/user8,https://linkedin.com/in/user8,student
+stu9,Kavya Sharma,kavya.sharma9@example.com,9805641433,IIT Bombay,10,8.54,Data Engineering,https://github.com/user9,https://linkedin.com/in/user9,student
+stu10,Suresh Patel,suresh.patel10@example.com,7776874175,NIT Trichy,11,9.17,Blockchain,https://github.com/user10,https://linkedin.com/in/user10,student
+stu11,Riya Patel,riya.patel11@example.com,9298394054,VIT Vellore,10,8.7,Cloud & DevOps,https://github.com/user11,https://linkedin.com/in/user11,student
+stu12,Pooja Gupta,pooja.gupta12@example.com,8662165940,Delhi University,10,9.05,UI/UX Design,https://github.com/user12,https://linkedin.com/in/user12,student
+stu13,Vikram Rao,vikram.rao13@example.com,7975745461,SRM University,6,7.6,Game Development,https://github.com/user13,https://linkedin.com/in/user13,student
+stu14,Akash Joshi,akash.joshi14@example.com,7688958043,Delhi University,8,9.08,Web Development,https://github.com/user14,https://linkedin.com/in/user14,student
+stu15,Aditi Bose,aditi.bose15@example.com,7992286326,IIIT Hyderabad,4,9.32,Data Engineering,https://github.com/user15,https://linkedin.com/in/user15,student
+stu16,Arjun Mehta,arjun.mehta16@example.com,7891477470,Chandigarh University,10,8.74,Cybersecurity,https://github.com/user16,https://linkedin.com/in/user16,student
+stu17,Harsh Gupta,harsh.gupta17@example.com,9199284416,Chandigarh University,12,7.52,Cloud & DevOps,https://github.com/user17,https://linkedin.com/in/user17,student
+stu18,Ananya Joshi,ananya.joshi18@example.com,7345208100,IIT Bombay,4,8.12,Web Development,https://github.com/user18,https://linkedin.com/in/user18,student
+stu19,Aravind Rao,aravind.rao19@example.com,9426741931,Delhi University,9,8.84,Backend Development,https://github.com/user19,https://linkedin.com/in/user19,student
+stu20,Ananya Malhotra,ananya.malhotra20@example.com,8049447130,Chandigarh University,9,9.21,Blockchain,https://github.com/user20,https://linkedin.com/in/user20,student
+stu21,Rahul Joshi,rahul.joshi21@example.com,8839472595,Amity University,3,9.73,Cloud & DevOps,https://github.com/user21,https://linkedin.com/in/user21,student
+stu22,Meera Bose,meera.bose22@example.com,7153234656,VIT Vellore,10,8.2,Backend Development,https://github.com/user22,https://linkedin.com/in/user22,student
+stu23,Harsh Gupta,harsh.gupta23@example.com,9927912589,IIT Bombay,5,7.62,Blockchain,https://github.com/user23,https://linkedin.com/in/user23,student
+stu24,Karan Joshi,karan.joshi24@example.com,8858161261,Amity University,6,7.92,Web Development,https://github.com/user24,https://linkedin.com/in/user24,student
+stu25,Priya Nair,priya.nair25@example.com,9374388327,VIT Vellore,6,8.05,Data Engineering,https://github.com/user25,https://linkedin.com/in/user25,student
+stu26,Priya Iyer,priya.iyer26@example.com,8494179933,BITS Pilani,10,8.62,Cybersecurity,https://github.com/user26,https://linkedin.com/in/user26,student
+stu27,Shreya Sharma,shreya.sharma27@example.com,9699259291,NIT Trichy,7,7.73,Cybersecurity,https://github.com/user27,https://linkedin.com/in/user27,student
+stu28,Rohan Mehta,rohan.mehta28@example.com,8832272048,Delhi University,12,8.5,Backend Development,https://github.com/user28,https://linkedin.com/in/user28,student
+stu29,Aditi Bose,aditi.bose29@example.com,7275666280,NIT Trichy,6,7.53,Game Development,https://github.com/user29,https://linkedin.com/in/user29,student
+stu30,Deepika Singh,deepika.singh30@example.com,9422587225,VIT Vellore,7,8.6,Android Development,https://github.com/user30,https://linkedin.com/in/user30,student
+stu31,Arjun Chawla,arjun.chawla31@example.com,7359120528,Amity University,8,9.73,Web Development,https://github.com/user31,https://linkedin.com/in/user31,student
+stu32,Manish Malhotra,manish.malhotra32@example.com,8526660124,IIT Bombay,10,7.59,Cybersecurity,https://github.com/user32,https://linkedin.com/in/user32,student
+stu33,Divya Verma,divya.verma33@example.com,9727756460,IIIT Hyderabad,11,8.65,Blockchain,https://github.com/user33,https://linkedin.com/in/user33,student
+stu34,Tanvi Patel,tanvi.patel34@example.com,7394491004,BITS Pilani,3,8.98,Backend Development,https://github.com/user34,https://linkedin.com/in/user34,student
+stu35,Divya Patel,divya.patel35@example.com,9062658474,IIIT Hyderabad,9,9.59,Data Engineering,https://github.com/user35,https://linkedin.com/in/user35,student
+stu36,Siddharth Kapoor,siddharth.kapoor36@example.com,9584801144,Lovely Professional University,11,9.56,Android Development,https://github.com/user36,https://linkedin.com/in/user36,student
+stu37,Riya Iyer,riya.iyer37@example.com,9237747558,Amity University,4,8.87,Android Development,https://github.com/user37,https://linkedin.com/in/user37,student
+stu38,Manish Malhotra,manish.malhotra38@example.com,7386477403,IIIT Hyderabad,8,8.16,Cloud & DevOps,https://github.com/user38,https://linkedin.com/in/user38,student
+stu39,Kartik Verma,kartik.verma39@example.com,9911425948,IIT Bombay,6,8.63,Blockchain,https://github.com/user39,https://linkedin.com/in/user39,student
+stu40,Deepika Chawla,deepika.chawla40@example.com,9835342966,NIT Trichy,11,8.22,Data Engineering,https://github.com/user40,https://linkedin.com/in/user40,student
+stu41,Harsh Verma,harsh.verma41@example.com,9018726141,Delhi University,10,9.02,Backend Development,https://github.com/user41,https://linkedin.com/in/user41,student
+stu42,Priya Mehta,priya.mehta42@example.com,8689284519,VIT Vellore,6,9.29,Web Development,https://github.com/user42,https://linkedin.com/in/user42,student
+stu43,Aravind Reddy,aravind.reddy43@example.com,9616647363,Chandigarh University,11,8.76,Web Development,https://github.com/user43,https://linkedin.com/in/user43,student
+stu44,Riya Malhotra,riya.malhotra44@example.com,9935795558,SRM University,6,7.7,Data Engineering,https://github.com/user44,https://linkedin.com/in/user44,student
+stu45,Sanya Malhotra,sanya.malhotra45@example.com,8268859385,Chandigarh University,4,9.45,Blockchain,https://github.com/user45,https://linkedin.com/in/user45,student
+stu46,Ananya Verma,ananya.verma46@example.com,9415433420,IIT Delhi,7,9.43,Blockchain,https://github.com/user46,https://linkedin.com/in/user46,student
+stu47,Sneha Bose,sneha.bose47@example.com,9372406759,IIT Madras,8,9.65,Android Development,https://github.com/user47,https://linkedin.com/in/user47,student
+stu48,Neha Reddy,neha.reddy48@example.com,7904948007,Amity University,6,9.6,Cloud & DevOps,https://github.com/user48,https://linkedin.com/in/user48,student
+stu49,Manish Verma,manish.verma49@example.com,7161907416,Chandigarh University,3,9.18,Cloud & DevOps,https://github.com/user49,https://linkedin.com/in/user49,student
+stu50,Neha Verma,neha.verma50@example.com,7084767339,Amity University,12,9.29,AI/ML,https://github.com/user50,https://linkedin.com/in/user50,student
+stu51,Aman Rao,aman.rao51@example.com,8244660880,Chandigarh University,9,8.45,AI/ML,https://github.com/user51,https://linkedin.com/in/user51,student
+stu52,Suresh Chawla,suresh.chawla52@example.com,9756253197,SRM University,6,8.52,Cybersecurity,https://github.com/user52,https://linkedin.com/in/user52,student
+stu53,Priya Patel,priya.patel53@example.com,7775619803,BITS Pilani,7,9.29,UI/UX Design,https://github.com/user53,https://linkedin.com/in/user53,student
+stu54,Vikram Chawla,vikram.chawla54@example.com,7141286410,SRM University,4,8.52,Data Engineering,https://github.com/user54,https://linkedin.com/in/user54,student
+stu55,Manish Iyer,manish.iyer55@example.com,9543911284,SRM University,3,9.07,Cloud & DevOps,https://github.com/user55,https://linkedin.com/in/user55,student
+stu56,Rohan Gupta,rohan.gupta56@example.com,8364262850,Lovely Professional University,4,7.76,Blockchain,https://github.com/user56,https://linkedin.com/in/user56,student
+stu57,Deepika Das,deepika.das57@example.com,9698106958,Amity University,3,8.08,Data Engineering,https://github.com/user57,https://linkedin.com/in/user57,student
+stu58,Pooja Singh,pooja.singh58@example.com,9256350335,VIT Vellore,10,8.94,Backend Development,https://github.com/user58,https://linkedin.com/in/user58,student
+stu59,Kavya Singh,kavya.singh59@example.com,7596639777,Lovely Professional University,9,8.47,Backend Development,https://github.com/user59,https://linkedin.com/in/user59,student
+stu60,Shreya Rao,shreya.rao60@example.com,9917058955,VIT Vellore,5,8.31,UI/UX Design,https://github.com/user60,https://linkedin.com/in/user60,student
+stu61,Priya Chawla,priya.chawla61@example.com,8352888931,Lovely Professional University,9,8.56,Cloud & DevOps,https://github.com/user61,https://linkedin.com/in/user61,student
+stu62,Rahul Patel,rahul.patel62@example.com,7002526154,IIT Delhi,4,7.81,Data Engineering,https://github.com/user62,https://linkedin.com/in/user62,student
+stu63,Vikram Bose,vikram.bose63@example.com,9863028559,SRM University,5,8.98,Web Development,https://github.com/user63,https://linkedin.com/in/user63,student
+stu64,Rahul Das,rahul.das64@example.com,9246967269,Chandigarh University,12,8.55,Android Development,https://github.com/user64,https://linkedin.com/in/user64,student
+stu65,Neha Kapoor,neha.kapoor65@example.com,8338967663,NIT Trichy,7,8.22,AI/ML,https://github.com/user65,https://linkedin.com/in/user65,student
+stu66,Deepika Chawla,deepika.chawla66@example.com,8538524987,IIIT Hyderabad,9,9.24,Blockchain,https://github.com/user66,https://linkedin.com/in/user66,student
+stu67,Manish Bose,manish.bose67@example.com,7529285194,IIT Delhi,10,9.09,Data Engineering,https://github.com/user67,https://linkedin.com/in/user67,student
+stu68,Varun Chawla,varun.chawla68@example.com,9437152949,SRM University,4,8.71,Web Development,https://github.com/user68,https://linkedin.com/in/user68,student
+stu69,Arjun Kapoor,arjun.kapoor69@example.com,9697538330,SRM University,10,8.99,Blockchain,https://github.com/user69,https://linkedin.com/in/user69,student
+stu70,Aman Reddy,aman.reddy70@example.com,7989628755,IIT Bombay,11,8.12,Game Development,https://github.com/user70,https://linkedin.com/in/user70,student
+stu71,Riya Verma,riya.verma71@example.com,8351796588,Lovely Professional University,5,7.55,Cloud & DevOps,https://github.com/user71,https://linkedin.com/in/user71,student
+stu72,Meera Mehta,meera.mehta72@example.com,8327247797,SRM University,3,9.07,Game Development,https://github.com/user72,https://linkedin.com/in/user72,student
+stu73,Swati Verma,swati.verma73@example.com,9617393686,Chandigarh University,9,8.5,Game Development,https://github.com/user73,https://linkedin.com/in/user73,student
+stu74,Siddharth Mehta,siddharth.mehta74@example.com,9089277894,SRM University,5,9.33,Blockchain,https://github.com/user74,https://linkedin.com/in/user74,student
+stu75,Rahul Joshi,rahul.joshi75@example.com,9211677405,NIT Trichy,10,8.59,Data Engineering,https://github.com/user75,https://linkedin.com/in/user75,student
+stu76,Varun Mehta,varun.mehta76@example.com,9091218962,IIT Delhi,6,8.35,Android Development,https://github.com/user76,https://linkedin.com/in/user76,student
+stu77,Karan Bose,karan.bose77@example.com,9524299293,IIT Bombay,8,9.11,Blockchain,https://github.com/user77,https://linkedin.com/in/user77,student
+stu78,Pooja Singh,pooja.singh78@example.com,9238238726,IIIT Hyderabad,9,8.58,Android Development,https://github.com/user78,https://linkedin.com/in/user78,student
+stu79,Priya Iyer,priya.iyer79@example.com,7441831832,SRM University,6,9.46,Android Development,https://github.com/user79,https://linkedin.com/in/user79,student
+stu80,Harsh Reddy,harsh.reddy80@example.com,8383419712,NIT Trichy,3,9.36,AI/ML,https://github.com/user80,https://linkedin.com/in/user80,student
+stu81,Harsh Mehta,harsh.mehta81@example.com,8313529992,IIIT Hyderabad,8,9.51,Cloud & DevOps,https://github.com/user81,https://linkedin.com/in/user81,student
+stu82,Manish Kapoor,manish.kapoor82@example.com,7866864933,IIT Delhi,5,8.31,Game Development,https://github.com/user82,https://linkedin.com/in/user82,student
+stu83,Ananya Malhotra,ananya.malhotra83@example.com,8518258557,Lovely Professional University,7,9.16,UI/UX Design,https://github.com/user83,https://linkedin.com/in/user83,student
+stu84,Kavya Mehta,kavya.mehta84@example.com,8389286124,Delhi University,7,8.68,Data Engineering,https://github.com/user84,https://linkedin.com/in/user84,student
+stu85,Pooja Patel,pooja.patel85@example.com,9467919310,IIT Delhi,9,8.0,Cloud & DevOps,https://github.com/user85,https://linkedin.com/in/user85,student
+stu86,Karan Malhotra,karan.malhotra86@example.com,7632730259,IIT Delhi,8,8.72,UI/UX Design,https://github.com/user86,https://linkedin.com/in/user86,student
+stu87,Swati Das,swati.das87@example.com,7618635702,BITS Pilani,7,8.56,Cloud & DevOps,https://github.com/user87,https://linkedin.com/in/user87,student
+stu88,Kartik Iyer,kartik.iyer88@example.com,8138861578,VIT Vellore,5,9.41,Blockchain,https://github.com/user88,https://linkedin.com/in/user88,student
+stu89,Siddharth Bose,siddharth.bose89@example.com,8414267815,SRM University,5,9.74,Backend Development,https://github.com/user89,https://linkedin.com/in/user89,student
+stu90,Kavya Joshi,kavya.joshi90@example.com,7957413496,IIT Bombay,11,8.04,Blockchain,https://github.com/user90,https://linkedin.com/in/user90,student
+stu91,Kartik Nair,kartik.nair91@example.com,8105295047,Chandigarh University,9,8.77,Backend Development,https://github.com/user91,https://linkedin.com/in/user91,student
+stu92,Ishaan Das,ishaan.das92@example.com,8317777484,IIT Delhi,9,8.96,Android Development,https://github.com/user92,https://linkedin.com/in/user92,student
+stu93,Shreya Rao,shreya.rao93@example.com,8283242865,IIIT Hyderabad,8,7.98,Data Engineering,https://github.com/user93,https://linkedin.com/in/user93,student
+stu94,Divya Singh,divya.singh94@example.com,9897547869,Chandigarh University,4,8.38,Android Development,https://github.com/user94,https://linkedin.com/in/user94,student
+stu95,Siddharth Reddy,siddharth.reddy95@example.com,8976760045,Amity University,3,8.83,Web Development,https://github.com/user95,https://linkedin.com/in/user95,student
+stu96,Aditi Chawla,aditi.chawla96@example.com,7037676035,SRM University,10,9.48,Backend Development,https://github.com/user96,https://linkedin.com/in/user96,student
+stu97,Aravind Chawla,aravind.chawla97@example.com,9169519434,Delhi University,8,9.32,Game Development,https://github.com/user97,https://linkedin.com/in/user97,student
+stu98,Ananya Chawla,ananya.chawla98@example.com,9987066884,IIT Delhi,11,9.56,Data Engineering,https://github.com/user98,https://linkedin.com/in/user98,student
+stu99,Sneha Singh,sneha.singh99@example.com,7542229716,IIT Madras,10,8.58,Game Development,https://github.com/user99,https://linkedin.com/in/user99,student
+stu100,Tanvi Singh,tanvi.singh100@example.com,7915697065,NIT Trichy,10,9.49,UI/UX Design,https://github.com/user100,https://linkedin.com/in/user100,student

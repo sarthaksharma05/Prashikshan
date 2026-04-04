@@ -1,0 +1,11 @@
+id,title,company,location,mode,prize,deadline,description,domain,registration_link
+1,AI Innovation Challenge,Google India,Bangalore,Online,"₹1,00,000",2026-05-10,Build AI solutions for real-world problems,AI/ML,https://example.com/register1
+2,Web3 HackFest,Polygon,Mumbai,Hybrid,"₹75,000",2026-04-25,Create decentralized apps using blockchain,Blockchain,https://example.com/register2
+3,Full Stack Hackathon,Microsoft India,Hyderabad,Offline,"₹50,000",2026-06-01,Develop scalable full stack applications,Web Development,https://example.com/register3
+4,Android Dev Sprint,Google India,Delhi,Online,"₹40,000",2026-05-15,Build innovative Android applications,Android Development,https://example.com/register4
+5,Data Engineering Challenge,Amazon India,Bangalore,Hybrid,"₹80,000",2026-04-30,Design robust data pipelines,Data Engineering,https://example.com/register5
+6,Cyber Shield Hackathon,TCS,Pune,Online,"₹60,000",2026-05-20,Solve cybersecurity challenges,Cybersecurity,https://example.com/register6
+7,UI/UX Design Jam,Adobe India,Remote,Online,"₹30,000",2026-04-18,Design modern user experiences,UI/UX Design,https://example.com/register7
+8,Cloud Hack Challenge,Infosys,Chennai,Offline,"₹70,000",2026-05-25,Build cloud-native applications,Cloud & DevOps,https://example.com/register8
+9,Backend Battle,Flipkart,Bangalore,Hybrid,"₹65,000",2026-05-05,Optimize backend systems,Backend Development,https://example.com/register9
+10,Game Dev Clash,Unity India,Mumbai,Online,"₹55,000",2026-06-10,Create engaging games,Game Development,https://example.com/register10

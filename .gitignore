@@ -1,0 +1,40 @@
+# Environment Variables
+.env
+.env.*
+*.env
+
+# Python/FastAPI Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.pytest_cache/
+*.sqlite3
+
+# Flutter/Dart App
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store
+
+# Google Services / Sensitive Keys
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+prashikshan-810c7-firebase-adminsdk*.json
+*serviceAccountKey*.json
