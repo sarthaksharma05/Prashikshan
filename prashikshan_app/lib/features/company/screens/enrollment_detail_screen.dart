@@ -270,18 +270,36 @@ class EnrollmentDetailScreen extends StatelessWidget {
   }
 
   Widget _buildActions(BuildContext context) {
-    return SizedBox(
-      width: double.infinity,
-      height: 48,
-      child: OutlinedButton(
-        onPressed: () => _updateStatus(context, 'reviewed'),
-        style: OutlinedButton.styleFrom(
-          foregroundColor: AppPalette.pureWhite,
-          side: const BorderSide(color: AppPalette.border),
-          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+    return Column(
+      children: [
+        SizedBox(
+          width: double.infinity,
+          height: 48,
+          child: ElevatedButton(
+            onPressed: () => _updateStatus(context, 'accepted'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.green,
+              foregroundColor: Colors.white,
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+            ),
+            child: const Text('Mark as Accepted', style: TextStyle(fontWeight: FontWeight.bold)),
+          ),
         ),
-        child: const Text('Mark as Reviewed'),
-      ),
+        const SizedBox(height: 12),
+        SizedBox(
+          width: double.infinity,
+          height: 48,
+          child: OutlinedButton(
+            onPressed: () => _updateStatus(context, 'reviewed'),
+            style: OutlinedButton.styleFrom(
+              foregroundColor: AppPalette.pureWhite,
+              side: const BorderSide(color: AppPalette.border),
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+            ),
+            child: const Text('Mark as Reviewed'),
+          ),
+        ),
+      ],
     );
   }
 }
